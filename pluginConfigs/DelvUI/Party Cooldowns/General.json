@@ -1,0 +1,41 @@
+{
+  "$type": "DelvUI.Interface.PartyCooldowns.PartyCooldownsConfig, DelvUI",
+  "Preview": false,
+  "GrowthDirection": 2,
+  "Padding": {
+    "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+    "X": 1.0,
+    "Y": 1.0
+  },
+  "ShowTooltips": true,
+  "ShowOnlyInDuties": false,
+  "ShowWhenSolo": true,
+  "VisibilityConfig": {
+    "$type": "DelvUI.Interface.VisibilityConfig, DelvUI",
+    "HideOutsideOfCombat": false,
+    "HideInCombat": false,
+    "HideInGoldSaucer": false,
+    "HideOnFullHP": false,
+    "HideInDuty": false,
+    "HideInIslandSanctuary": false,
+    "HideInPvP": false,
+    "ShowInDuty": false,
+    "ShowOnWeaponDrawn": false,
+    "ShowWhileCrafting": false,
+    "ShowWhileGathering": false,
+    "ShowInParty": false,
+    "ShowInIslandSanctuary": false,
+    "ShowInPvP": false,
+    "Enabled": false,
+    "Version": "2.1.1.1"
+  },
+  "Strata": null,
+  "Position": {
+    "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+    "X": -1280.0,
+    "Y": -597.0
+  },
+  "Enabled": true,
+  "StrataLevel": 0,
+  "Version": "2.1.1.1"
+}

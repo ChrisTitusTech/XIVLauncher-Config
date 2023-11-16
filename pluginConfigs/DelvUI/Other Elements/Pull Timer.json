@@ -1,0 +1,160 @@
+{
+  "$type": "DelvUI.Interface.GeneralElements.PullTimerConfig, DelvUI",
+  "UseJobColor": true,
+  "ThresholdConfig": {
+    "$type": "DelvUI.Interface.Bars.ThresholdConfig, DelvUI",
+    "Value": 0.0,
+    "ChangeColor": true,
+    "ThresholdType": 1,
+    "Color": {
+      "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+      "Vector": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.9019608,
+        "Y": 0.12941177,
+        "Z": 0.12941177,
+        "W": 0.53
+      }
+    },
+    "ShowMarker": false,
+    "MarkerSize": 2,
+    "MarkerColor": {
+      "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+      "Vector": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 1.0
+      }
+    },
+    "Enabled": false,
+    "Version": "2.1.1.1"
+  },
+  "Label": {
+    "$type": "DelvUI.Interface.GeneralElements.NumericLabelConfig, DelvUI",
+    "NumberFormat": 0,
+    "NumberFunction": 0,
+    "HideIfZero": false,
+    "FontID": "Expressway_24",
+    "FrameAnchor": 0,
+    "TextAnchor": 0,
+    "Color": {
+      "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+      "Vector": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      }
+    },
+    "ShowOutline": true,
+    "OutlineColor": {
+      "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+      "Vector": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 1.0
+      }
+    },
+    "ShadowConfig": {
+      "$type": "DelvUI.Interface.GeneralElements.ShadowConfig, DelvUI",
+      "Color": {
+        "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+        "Vector": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0
+        }
+      },
+      "Thickness": 1,
+      "Offset": 2,
+      "Enabled": false,
+      "Version": "2.1.1.1"
+    },
+    "UseJobColor": false,
+    "UseRoleColor": false,
+    "Strata": 6,
+    "Position": {
+      "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0
+    },
+    "Enabled": true,
+    "StrataLevel": 6,
+    "Version": "2.1.1.1"
+  },
+  "BackgroundColor": {
+    "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+    "Vector": {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "W": 0.48235294
+    }
+  },
+  "FillColor": {
+    "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+    "Vector": {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.9137255,
+      "Y": 0.015686275,
+      "Z": 0.015686275,
+      "W": 1.0
+    }
+  },
+  "FillDirection": 1,
+  "BarTextureName": "",
+  "BarTextureDrawMode": 0,
+  "DrawBorder": true,
+  "BorderColor": {
+    "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+    "Vector": {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "W": 1.0
+    }
+  },
+  "BorderThickness": 1,
+  "ShadowConfig": {
+    "$type": "DelvUI.Interface.GeneralElements.ShadowConfig, DelvUI",
+    "Color": {
+      "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+      "Vector": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 1.0
+      }
+    },
+    "Thickness": 1,
+    "Offset": 2,
+    "Enabled": false,
+    "Version": "2.1.1.1"
+  },
+  "HideWhenInactive": true,
+  "Size": {
+    "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+    "X": 300.0,
+    "Y": 20.0
+  },
+  "Anchor": 0,
+  "Strata": null,
+  "Position": {
+    "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+    "X": 0.0,
+    "Y": 403.0
+  },
+  "Enabled": true,
+  "StrataLevel": 0,
+  "Version": "2.1.1.1"
+}

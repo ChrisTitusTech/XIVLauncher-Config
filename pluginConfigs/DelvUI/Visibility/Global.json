@@ -1,0 +1,24 @@
+{
+  "$type": "DelvUI.Interface.GeneralElements.GlobalVisibilityConfig, DelvUI",
+  "VisibilityConfig": {
+    "$type": "DelvUI.Interface.VisibilityConfig, DelvUI",
+    "HideOutsideOfCombat": false,
+    "HideInCombat": false,
+    "HideInGoldSaucer": false,
+    "HideOnFullHP": false,
+    "HideInDuty": false,
+    "HideInIslandSanctuary": false,
+    "HideInPvP": false,
+    "ShowInDuty": false,
+    "ShowOnWeaponDrawn": false,
+    "ShowWhileCrafting": false,
+    "ShowWhileGathering": false,
+    "ShowInParty": false,
+    "ShowInIslandSanctuary": false,
+    "ShowInPvP": false,
+    "Enabled": true,
+    "Version": "2.1.1.1"
+  },
+  "Enabled": true,
+  "Version": "2.1.1.1"
+}

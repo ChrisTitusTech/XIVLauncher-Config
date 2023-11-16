@@ -1,0 +1,10 @@
+{
+  "$type": "DelvUI.Interface.GeneralElements.WindowClippingConfig, DelvUI",
+  "Mode": 2,
+  "NameplatesClipRectsEnabled": true,
+  "TargetCastbarClipRectEnabled": false,
+  "HotbarsClipRectsEnabled": false,
+  "ChatBubblesClipRectsEnabled": true,
+  "Enabled": true,
+  "Version": "2.1.1.1"
+}

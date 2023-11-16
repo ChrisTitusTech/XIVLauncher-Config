@@ -1,0 +1,7 @@
+{
+  "CharacterName": "Titus Maximus",
+  "CharacterWorld": "Excalibur",
+  "WaitUntilDutyStart": true,
+  "AutoSuppress": false,
+  "AutoSuppressTime": 60
+}

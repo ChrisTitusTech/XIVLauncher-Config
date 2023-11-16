@@ -1,0 +1,17 @@
+{
+  "Enabled": false,
+  "SoloMode": false,
+  "DutiesOnly": false,
+  "DisableInSanctuary": false,
+  "Priority": 3,
+  "CustomWarning": false,
+  "CustomWarningText": "",
+  "SuppressInCombat": true,
+  "EarlyWarningTime": 600,
+  "ShowTimeRemaining": false,
+  "ZoneFilter": false,
+  "SavageFilter": false,
+  "UltimateFilter": false,
+  "ExtremeUnrealFilter": false,
+  "CriterionFilter": false
+}

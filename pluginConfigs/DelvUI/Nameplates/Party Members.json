@@ -1,0 +1,538 @@
+{
+  "$type": "DelvUI.Interface.GeneralElements.PartyMembersNameplateConfig, DelvUI",
+  "BarConfig": {
+    "$type": "DelvUI.Interface.GeneralElements.NameplatePlayerBarConfig, DelvUI",
+    "UseJobColor": false,
+    "UseRoleColor": false,
+    "UseJobColorAsBackgroundColor": false,
+    "UseRoleColorAsBackgroundColor": false,
+    "OnlyShowWhenNotFull": true,
+    "HideHealthAtZero": true,
+    "DisableInteraction": false,
+    "UseDifferentSizeWhenTargeted": false,
+    "SizeWhenTargeted": {
+      "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+      "X": 120.0,
+      "Y": 10.0
+    },
+    "TargetedBorderColor": {
+      "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+      "Vector": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      }
+    },
+    "TargetedBorderThickness": 2,
+    "ColorByHealth": {
+      "$type": "DelvUI.Interface.GeneralElements.ColorByHealthValueConfig, DelvUI",
+      "UseMaxHealthColor": false,
+      "MaxHealthColor": {
+        "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+        "Vector": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.07058824,
+          "Y": 0.07058824,
+          "Z": 0.07058824,
+          "W": 1.0
+        }
+      },
+      "UseJobColorAsMaxHealth": false,
+      "UseRoleColorAsMaxHealth": false,
+      "FullHealthColor": {
+        "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+        "Vector": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 1.0,
+          "Z": 0.0,
+          "W": 1.0
+        }
+      },
+      "LowHealthColor": {
+        "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+        "Vector": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 1.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0
+        }
+      },
+      "FullHealthColorThreshold": 75.0,
+      "LowHealthColorThreshold": 25.0,
+      "BlendMode": 0,
+      "Enabled": false,
+      "Version": "2.1.1.1"
+    },
+    "HideHealthIfPossible": true,
+    "LeftLabelConfig": {
+      "$type": "DelvUI.Interface.GeneralElements.EditableLabelConfig, DelvUI",
+      "Text": "[health:current-short]",
+      "FontID": "Expressway_20",
+      "FrameAnchor": 1,
+      "TextAnchor": 1,
+      "Color": {
+        "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+        "Vector": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "ShowOutline": true,
+      "OutlineColor": {
+        "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+        "Vector": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0
+        }
+      },
+      "ShadowConfig": {
+        "$type": "DelvUI.Interface.GeneralElements.ShadowConfig, DelvUI",
+        "Color": {
+          "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+          "Vector": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0
+          }
+        },
+        "Thickness": 1,
+        "Offset": 2,
+        "Enabled": false,
+        "Version": "2.1.1.1"
+      },
+      "UseJobColor": false,
+      "UseRoleColor": false,
+      "Strata": 0,
+      "Position": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 5.0,
+        "Y": 0.0
+      },
+      "Enabled": false,
+      "StrataLevel": 0,
+      "Version": "2.1.1.1"
+    },
+    "RightLabelConfig": {
+      "$type": "DelvUI.Interface.GeneralElements.EditableLabelConfig, DelvUI",
+      "Text": "",
+      "FontID": "Expressway_20",
+      "FrameAnchor": 2,
+      "TextAnchor": 2,
+      "Color": {
+        "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+        "Vector": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "ShowOutline": true,
+      "OutlineColor": {
+        "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+        "Vector": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0
+        }
+      },
+      "ShadowConfig": {
+        "$type": "DelvUI.Interface.GeneralElements.ShadowConfig, DelvUI",
+        "Color": {
+          "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+          "Vector": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0
+          }
+        },
+        "Thickness": 1,
+        "Offset": 2,
+        "Enabled": false,
+        "Version": "2.1.1.1"
+      },
+      "UseJobColor": false,
+      "UseRoleColor": false,
+      "Strata": 0,
+      "Position": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": -5.0,
+        "Y": 0.0
+      },
+      "Enabled": false,
+      "StrataLevel": 0,
+      "Version": "2.1.1.1"
+    },
+    "OptionalLabelConfig": {
+      "$type": "DelvUI.Interface.GeneralElements.EditableLabelConfig, DelvUI",
+      "Text": "",
+      "FontID": "Expressway_16",
+      "FrameAnchor": 0,
+      "TextAnchor": 0,
+      "Color": {
+        "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+        "Vector": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "ShowOutline": true,
+      "OutlineColor": {
+        "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+        "Vector": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0
+        }
+      },
+      "ShadowConfig": {
+        "$type": "DelvUI.Interface.GeneralElements.ShadowConfig, DelvUI",
+        "Color": {
+          "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+          "Vector": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0
+          }
+        },
+        "Thickness": 1,
+        "Offset": 2,
+        "Enabled": false,
+        "Version": "2.1.1.1"
+      },
+      "UseJobColor": false,
+      "UseRoleColor": false,
+      "Strata": 0,
+      "Position": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "Enabled": false,
+      "StrataLevel": 0,
+      "Version": "2.1.1.1"
+    },
+    "ShieldConfig": {
+      "$type": "DelvUI.Interface.GeneralElements.ShieldConfig, DelvUI",
+      "Height": 100,
+      "HeightInPixels": false,
+      "FillHealthFirst": true,
+      "Color": {
+        "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+        "Vector": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.7764706,
+          "Y": 0.8235294,
+          "Z": 1.0,
+          "W": 0.7
+        }
+      },
+      "Enabled": true,
+      "Version": "2.1.1.1"
+    },
+    "MouseoverAreaConfig": {
+      "$type": "DelvUI.Interface.GeneralElements.MouseoverAreaConfig, DelvUI",
+      "Preview": false,
+      "Ignore": false,
+      "TopLeftOffset": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "BottomRightOffset": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "Enabled": false,
+      "Version": "2.1.1.1"
+    },
+    "BackgroundColor": {
+      "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+      "Vector": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 0.6666667
+      }
+    },
+    "FillColor": {
+      "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+      "Vector": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.81568635,
+        "Y": 0.8980393,
+        "Z": 0.87843144,
+        "W": 1.0
+      }
+    },
+    "FillDirection": 1,
+    "BarTextureName": "Minimalist",
+    "BarTextureDrawMode": 0,
+    "DrawBorder": true,
+    "BorderColor": {
+      "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+      "Vector": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 1.0
+      }
+    },
+    "BorderThickness": 1,
+    "ShadowConfig": {
+      "$type": "DelvUI.Interface.GeneralElements.ShadowConfig, DelvUI",
+      "Color": {
+        "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+        "Vector": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0
+        }
+      },
+      "Thickness": 1,
+      "Offset": 2,
+      "Enabled": false,
+      "Version": "2.1.1.1"
+    },
+    "HideWhenInactive": false,
+    "Size": {
+      "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+      "X": 120.0,
+      "Y": 10.0
+    },
+    "Anchor": 0,
+    "Strata": null,
+    "Position": {
+      "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": -5.0
+    },
+    "Enabled": true,
+    "StrataLevel": 0,
+    "Version": "2.1.1.1"
+  },
+  "RoleIconConfig": {
+    "$type": "DelvUI.Interface.GeneralElements.NameplateRoleJobIconConfig, DelvUI",
+    "NameplateLabelAnchor": 0,
+    "PrioritizeHealthBarAnchor": false,
+    "Style": 0,
+    "UseRoleIcons": false,
+    "UseSpecificDPSRoleIcons": false,
+    "FrameAnchor": 1,
+    "Size": {
+      "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+      "X": 30.0,
+      "Y": 30.0
+    },
+    "Anchor": 2,
+    "Strata": 0,
+    "Position": {
+      "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 3.0
+    },
+    "Enabled": true,
+    "StrataLevel": 0,
+    "Version": "2.1.1.1"
+  },
+  "StateIconConfig": {
+    "$type": "DelvUI.Interface.GeneralElements.NameplatePlayerIconConfig, DelvUI",
+    "OnlyShowDisconnected": false,
+    "NameplateLabelAnchor": 0,
+    "PrioritizeHealthBarAnchor": false,
+    "FrameAnchor": 2,
+    "Size": {
+      "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+      "X": 30.0,
+      "Y": 30.0
+    },
+    "Anchor": 1,
+    "Strata": 0,
+    "Position": {
+      "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0
+    },
+    "Enabled": true,
+    "StrataLevel": 0,
+    "Version": "2.1.1.1"
+  },
+  "OnlyShowWhenTargeted": false,
+  "SwapLabelsWhenNeeded": true,
+  "NameLabelConfig": {
+    "$type": "DelvUI.Interface.GeneralElements.EditableLabelConfig, DelvUI",
+    "Text": "[name]",
+    "FontID": "Expressway_16",
+    "FrameAnchor": 3,
+    "TextAnchor": 6,
+    "Color": {
+      "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+      "Vector": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.81568635,
+        "Y": 0.8980393,
+        "Z": 0.87843144,
+        "W": 1.0
+      }
+    },
+    "ShowOutline": true,
+    "OutlineColor": {
+      "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+      "Vector": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 1.0
+      }
+    },
+    "ShadowConfig": {
+      "$type": "DelvUI.Interface.GeneralElements.ShadowConfig, DelvUI",
+      "Color": {
+        "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+        "Vector": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0
+        }
+      },
+      "Thickness": 1,
+      "Offset": 2,
+      "Enabled": false,
+      "Version": "2.1.1.1"
+    },
+    "UseJobColor": false,
+    "UseRoleColor": false,
+    "Strata": 0,
+    "Position": {
+      "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": -20.0
+    },
+    "Enabled": true,
+    "StrataLevel": 0,
+    "Version": "2.1.1.1"
+  },
+  "TitleLabelConfig": {
+    "$type": "DelvUI.Interface.GeneralElements.EditableNonFormattableLabelConfig, DelvUI",
+    "Text": "<[title]>",
+    "FontID": "Expressway_16",
+    "FrameAnchor": 3,
+    "TextAnchor": 6,
+    "Color": {
+      "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+      "Vector": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.81568635,
+        "Y": 0.8980393,
+        "Z": 0.87843144,
+        "W": 1.0
+      }
+    },
+    "ShowOutline": true,
+    "OutlineColor": {
+      "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+      "Vector": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 1.0
+      }
+    },
+    "ShadowConfig": {
+      "$type": "DelvUI.Interface.GeneralElements.ShadowConfig, DelvUI",
+      "Color": {
+        "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+        "Vector": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0
+        }
+      },
+      "Thickness": 1,
+      "Offset": 2,
+      "Enabled": false,
+      "Version": "2.1.1.1"
+    },
+    "UseJobColor": false,
+    "UseRoleColor": true,
+    "Strata": 0,
+    "Position": {
+      "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0
+    },
+    "Enabled": false,
+    "StrataLevel": 0,
+    "Version": "2.1.1.1"
+  },
+  "RangeConfig": {
+    "$type": "DelvUI.Interface.GeneralElements.NameplateRangeConfig, DelvUI",
+    "StartRange": 50,
+    "EndRange": 64,
+    "Enabled": true,
+    "Version": "2.1.1.1"
+  },
+  "VisibilityConfig": {
+    "$type": "DelvUI.Interface.VisibilityConfig, DelvUI",
+    "HideOutsideOfCombat": false,
+    "HideInCombat": false,
+    "HideInGoldSaucer": false,
+    "HideOnFullHP": false,
+    "HideInDuty": false,
+    "HideInIslandSanctuary": false,
+    "HideInPvP": false,
+    "ShowInDuty": false,
+    "ShowOnWeaponDrawn": false,
+    "ShowWhileCrafting": false,
+    "ShowWhileGathering": false,
+    "ShowInParty": false,
+    "ShowInIslandSanctuary": false,
+    "ShowInPvP": false,
+    "Enabled": false,
+    "Version": "2.1.1.1"
+  },
+  "Strata": null,
+  "Position": {
+    "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+    "X": 0.0,
+    "Y": 0.0
+  },
+  "Enabled": true,
+  "StrataLevel": 0,
+  "Version": "2.1.1.1"
+}

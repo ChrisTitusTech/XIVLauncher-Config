@@ -1,0 +1,8 @@
+{
+  "CharacterName": "Titus Maximus",
+  "HomeWorld": "Excalibur",
+  "SortOnInventoryChange": true,
+  "SortOnZoneChange": true,
+  "SortOnJobChange": true,
+  "SortOnLogin": true
+}

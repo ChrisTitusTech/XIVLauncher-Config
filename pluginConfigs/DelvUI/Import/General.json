@@ -1,0 +1,5 @@
+{
+  "$type": "DelvUI.Interface.ImportConfig, DelvUI",
+  "Enabled": true,
+  "Version": "2.1.1.1"
+}

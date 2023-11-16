@@ -1,0 +1,45 @@
+﻿{
+  "AutoEnableNames": [
+    "Tituz Maximus@Goblin"
+  ],
+  "TempEnableButton": 0,
+  "TempDisableButton": 1,
+  "MainConfig": {
+    "EnableQuestAccept": true,
+    "EnableQuestComplete": true,
+    "EnableRewardPick": false,
+    "EnableRequestHandin": true,
+    "EnableCutsceneEsc": true,
+    "EnableCutsceneSkipConfirm": true,
+    "EnableTalkSkip": true,
+    "EnableRequestFill": true,
+    "QTIQuestEnabled": true,
+    "QTIQuestColor": {
+      "X": 1.0,
+      "Y": 0.0,
+      "Z": 0.5176471,
+      "W": 1.0
+    },
+    "QTIQuestTether": true,
+    "QTIQuestThickness": 2.0,
+    "QTIQuestHideWhenTargeted": false,
+    "QTIAlwaysEnabled": false
+  },
+  "TerritoryConditions": {},
+  "GlobalOverridesLocal": false,
+  "EnableOverlay": false,
+  "OverlayOffset": {
+    "X": 0.0,
+    "Y": -10.0
+  },
+  "NotifyDisableManualState": false,
+  "NotifyDisableOnLogin": false,
+  "QTIEnabled": false,
+  "PickRewardOrder": [
+    1,
+    2,
+    0,
+    3
+  ],
+  "Version": 2
+}

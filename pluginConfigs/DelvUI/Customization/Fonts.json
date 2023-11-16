@@ -1,0 +1,72 @@
+{
+  "$type": "DelvUI.Interface.GeneralElements.FontsConfig, DelvUI",
+  "FontsPath": "C:\\Spel\\FFXIVfonts",
+  "Fonts": {
+    "$type": "System.Collections.Generic.SortedList`2[[System.String, System.Private.CoreLib],[DelvUI.Interface.GeneralElements.FontData, DelvUI]], System.Collections",
+    "big-noodle-too_16": {
+      "$type": "DelvUI.Interface.GeneralElements.FontData, DelvUI",
+      "Name": "big-noodle-too",
+      "Size": 16
+    },
+    "big-noodle-too_20": {
+      "$type": "DelvUI.Interface.GeneralElements.FontData, DelvUI",
+      "Name": "big-noodle-too",
+      "Size": 20
+    },
+    "big-noodle-too_24": {
+      "$type": "DelvUI.Interface.GeneralElements.FontData, DelvUI",
+      "Name": "big-noodle-too",
+      "Size": 24
+    },
+    "Expressway_10": {
+      "$type": "DelvUI.Interface.GeneralElements.FontData, DelvUI",
+      "Name": "Expressway",
+      "Size": 10
+    },
+    "Expressway_12": {
+      "$type": "DelvUI.Interface.GeneralElements.FontData, DelvUI",
+      "Name": "Expressway",
+      "Size": 12
+    },
+    "Expressway_14": {
+      "$type": "DelvUI.Interface.GeneralElements.FontData, DelvUI",
+      "Name": "Expressway",
+      "Size": 14
+    },
+    "Expressway_16": {
+      "$type": "DelvUI.Interface.GeneralElements.FontData, DelvUI",
+      "Name": "Expressway",
+      "Size": 16
+    },
+    "Expressway_18": {
+      "$type": "DelvUI.Interface.GeneralElements.FontData, DelvUI",
+      "Name": "Expressway",
+      "Size": 18
+    },
+    "Expressway_20": {
+      "$type": "DelvUI.Interface.GeneralElements.FontData, DelvUI",
+      "Name": "Expressway",
+      "Size": 20
+    },
+    "Expressway_22": {
+      "$type": "DelvUI.Interface.GeneralElements.FontData, DelvUI",
+      "Name": "Expressway",
+      "Size": 22
+    },
+    "Expressway_24": {
+      "$type": "DelvUI.Interface.GeneralElements.FontData, DelvUI",
+      "Name": "Expressway",
+      "Size": 24
+    },
+    "Expressway_34": {
+      "$type": "DelvUI.Interface.GeneralElements.FontData, DelvUI",
+      "Name": "Expressway",
+      "Size": 34
+    }
+  },
+  "SupportChineseCharacters": false,
+  "SupportKoreanCharacters": false,
+  "SupportCyrillicCharacters": false,
+  "Enabled": true,
+  "Version": "2.1.1.1"
+}

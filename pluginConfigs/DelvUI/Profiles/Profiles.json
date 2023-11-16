@@ -1,0 +1,104 @@
+{
+  "$type": "DelvUI.Config.Profiles.ProfilesManager, DelvUI",
+  "ProfilesNode": {
+    "$type": "DelvUI.Config.Tree.SectionNode, DelvUI",
+    "Selected": false,
+    "Name": "Profiles",
+    "ForceAllowExport": false,
+    "ForceSelectedTabName": null,
+    "Children": [
+      {
+        "$type": "DelvUI.Config.Tree.NestedSubSectionNode, DelvUI",
+        "Name": "General",
+        "Depth": 0,
+        "ForceSelectedTabName": null,
+        "Children": [
+          {
+            "$type": "DelvUI.Config.Profiles.ProfilesConfigPageNode, DelvUI",
+            "Name": null,
+            "Depth": 0,
+            "ForceSelectedTabName": null,
+            "ConfigObject": {
+              "$type": "DelvUI.Config.Profiles.ProfilesConfig, DelvUI",
+              "Enabled": true,
+              "Version": "2.1.1.1"
+            },
+            "Children": []
+          }
+        ]
+      }
+    ]
+  },
+  "Profiles": {
+    "$type": "System.Collections.Generic.SortedList`2[[System.String, System.Private.CoreLib],[DelvUI.Config.Profiles.Profile, DelvUI]], System.Collections",
+    "Default": {
+      "$type": "DelvUI.Config.Profiles.Profile, DelvUI",
+      "Name": "Default",
+      "AutoSwitchEnabled": false,
+      "AutoSwitchData": {
+        "$type": "DelvUI.Config.Profiles.AutoSwitchData, DelvUI",
+        "Map": {
+          "$type": "System.Collections.Generic.Dictionary`2[[DelvUI.Helpers.JobRoles, DelvUI],[System.Collections.Generic.List`1[[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib]], System.Private.CoreLib",
+          "Tank": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+          ],
+          "Healer": [
+            false,
+            false,
+            false,
+            false,
+            false
+          ],
+          "DPSMelee": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+          ],
+          "DPSRanged": [
+            false,
+            false,
+            false,
+            false
+          ],
+          "DPSCaster": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+          ],
+          "Crafter": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+          ],
+          "Gatherer": [
+            false,
+            false,
+            false
+          ],
+          "Unknown": []
+        }
+      },
+      "HudLayout": 0,
+      "AttachHudEnabled": false
+    }
+  },
+  "CurrentProfileName": "Default"
+}

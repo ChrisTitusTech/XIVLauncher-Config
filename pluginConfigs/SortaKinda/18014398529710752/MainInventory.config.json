@@ -1,0 +1,444 @@
+{
+  "InventoryConfigs": [
+    {
+      "SlotConfigs": [
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        }
+      ],
+      "Type": 0
+    },
+    {
+      "SlotConfigs": [
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        }
+      ],
+      "Type": 1
+    },
+    {
+      "SlotConfigs": [
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        }
+      ],
+      "Type": 2
+    },
+    {
+      "SlotConfigs": [
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        },
+        {
+          "RuleId": "Default"
+        }
+      ],
+      "Type": 3
+    }
+  ]
+}

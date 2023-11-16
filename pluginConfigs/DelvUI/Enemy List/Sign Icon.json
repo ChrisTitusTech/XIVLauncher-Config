@@ -1,0 +1,22 @@
+{
+  "$type": "DelvUI.Interface.EnemyList.EnemyListSignIconConfig, DelvUI",
+  "HealthBarAnchor": 2,
+  "ReplaceOrderLabel": true,
+  "Preview": false,
+  "FrameAnchor": 1,
+  "Size": {
+    "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+    "X": 30.0,
+    "Y": 30.0
+  },
+  "Anchor": 0,
+  "Strata": 4,
+  "Position": {
+    "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+    "X": 0.0,
+    "Y": 0.0
+  },
+  "Enabled": true,
+  "StrataLevel": 4,
+  "Version": "2.1.1.1"
+}

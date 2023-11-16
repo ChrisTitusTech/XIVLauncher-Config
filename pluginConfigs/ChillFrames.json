@@ -1,0 +1,31 @@
+{
+  "$type": "ChillFrames.Models.Configuration, ChillFrames",
+  "Blacklist": {
+    "$type": "ChillFrames.Models.BlacklistSettings, ChillFrames",
+    "BlacklistedZones": []
+  },
+  "DisableIncrementSetting": 0.025,
+  "EnableIncrementSetting": 0.01,
+  "General": {
+    "$type": "ChillFrames.Models.GeneralSettings, ChillFrames",
+    "DisableDuringBardPerformance": true,
+    "DisableDuringCombatSetting": true,
+    "DisableDuringCraftingSetting": true,
+    "DisableDuringCutsceneSetting": true,
+    "DisableDuringDutyRecorderPlaybackSetting": true,
+    "DisableDuringDutySetting": true,
+    "DisableDuringGpose": true,
+    "DisableDuringQuestEventSetting": true,
+    "DisableIslandSanctuarySetting": true
+  },
+  "Limiter": {
+    "$type": "ChillFrames.Models.LimiterSettings, ChillFrames",
+    "ActiveFramerateTarget": 60,
+    "EnableActiveFramerateLimit": false,
+    "EnableIdleFramerateLimit": true,
+    "IdleFramerateTarget": 60,
+    "PreciseFramerate": true
+  },
+  "PluginEnable": true,
+  "Version": 3
+}

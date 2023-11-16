@@ -1,0 +1,938 @@
+{
+  "$type": "DelvUI.Interface.GeneralElements.HUDOptionsConfig, DelvUI",
+  "UseGlobalHudShift": false,
+  "HudOffset": {
+    "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+    "X": 0.0,
+    "Y": 0.0
+  },
+  "DimConfigWindow": true,
+  "AutomaticPreviewDisabling": true,
+  "OverrideDalamudStyle": true,
+  "MouseoverEnabled": true,
+  "MouseoverAutomaticMode": true,
+  "HideDefaultJobGauges": true,
+  "HideDefaultCastbar": true,
+  "HideDefaultPulltimer": true,
+  "UseRegionalNumberFormats": true,
+  "CastBarOriginalPositions": [
+    {
+      "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+      "X": 1197.0,
+      "Y": 913.0
+    },
+    {
+      "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+      "X": 1197.0,
+      "Y": 913.0
+    },
+    {
+      "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+      "X": 1197.0,
+      "Y": 913.0
+    },
+    {
+      "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+      "X": 1582.0,
+      "Y": 1200.0
+    }
+  ],
+  "PulltimerOriginalPositions": [
+    {
+      "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+      "X": 640.0,
+      "Y": 360.0
+    },
+    {
+      "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+      "X": 640.0,
+      "Y": 360.0
+    },
+    {
+      "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+      "X": 640.0,
+      "Y": 360.0
+    },
+    {
+      "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+      "X": 640.0,
+      "Y": 360.0
+    }
+  ],
+  "JobGaugeOriginalPositions": [
+    {
+      "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.Numerics.Vector2, System.Private.CoreLib]], System.Private.CoreLib",
+      "JobHudACN0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 1947.0,
+        "Y": 533.0
+      },
+      "JobHudSCH0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 1851.0,
+        "Y": 367.0
+      },
+      "JobHudDNC": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudDNC0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudDNC1": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudNotice": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 2400.0,
+        "Y": 1344.0
+      },
+      "JobHudSAM0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudSAM1": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudNIN": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudNIN0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudNIN1": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudSAM": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudRDM": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudRDM0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudBLM": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudBLM0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudDRK": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudDRK0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 1791.0,
+        "Y": 360.0
+      },
+      "JobHudDRK1": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 1796.0,
+        "Y": 497.0
+      },
+      "JobHudSCH": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudAST": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudAST0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 1947.0,
+        "Y": 367.0
+      },
+      "JobHudWHM": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudWHM0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 1939.0,
+        "Y": 367.0
+      },
+      "JobHudMNK": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudMNK1": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudGNB": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudGNB0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 1935.0,
+        "Y": 367.0
+      },
+      "JobHudWAR": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudWAR0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 1869.0,
+        "Y": 367.0
+      },
+      "JobHudDRG": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudDRG0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudPLD": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudPLD0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 1861.0,
+        "Y": 367.0
+      },
+      "JobHudMCH0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudMCH": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudSMN": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudSMN0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudSMN1": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudBRD": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudBRD0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      }
+    },
+    {
+      "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.Numerics.Vector2, System.Private.CoreLib]], System.Private.CoreLib",
+      "JobHudACN0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 1947.0,
+        "Y": 533.0
+      },
+      "JobHudSCH0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 1851.0,
+        "Y": 367.0
+      },
+      "JobHudDNC": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudDNC0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudDNC1": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudNotice": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 2400.0,
+        "Y": 1344.0
+      },
+      "JobHudSAM0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudSAM1": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudNIN": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudNIN0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudNIN1": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudSAM": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudRDM": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudRDM0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudBLM": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudBLM0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudDRK": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudDRK0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 1791.0,
+        "Y": 360.0
+      },
+      "JobHudDRK1": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 1796.0,
+        "Y": 497.0
+      },
+      "JobHudSCH": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudAST": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudAST0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 1947.0,
+        "Y": 367.0
+      },
+      "JobHudWHM": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudWHM0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 1939.0,
+        "Y": 367.0
+      },
+      "JobHudMNK": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudMNK1": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudGNB": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudGNB0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 1935.0,
+        "Y": 367.0
+      },
+      "JobHudWAR": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudWAR0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 1869.0,
+        "Y": 367.0
+      },
+      "JobHudDRG": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudDRG0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudPLD": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudPLD0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 1861.0,
+        "Y": 367.0
+      },
+      "JobHudMCH0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudMCH": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudSMN": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudSMN0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudSMN1": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudBRD": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudBRD0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      }
+    },
+    {
+      "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.Numerics.Vector2, System.Private.CoreLib]], System.Private.CoreLib",
+      "JobHudACN0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 1947.0,
+        "Y": 533.0
+      },
+      "JobHudSCH0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 1851.0,
+        "Y": 367.0
+      },
+      "JobHudDNC": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudDNC0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudDNC1": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudNotice": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 2400.0,
+        "Y": 1344.0
+      },
+      "JobHudSAM0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudSAM1": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudNIN": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudNIN0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudNIN1": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudSAM": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudRDM": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudRDM0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudBLM": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudBLM0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudDRK": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudDRK0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 1791.0,
+        "Y": 360.0
+      },
+      "JobHudDRK1": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 1796.0,
+        "Y": 497.0
+      },
+      "JobHudSCH": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudAST": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudAST0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 1947.0,
+        "Y": 367.0
+      },
+      "JobHudWHM": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudWHM0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 1939.0,
+        "Y": 367.0
+      },
+      "JobHudMNK": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudMNK1": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudGNB": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudGNB0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 1935.0,
+        "Y": 367.0
+      },
+      "JobHudWAR": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudWAR0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 1869.0,
+        "Y": 367.0
+      },
+      "JobHudDRG": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudDRG0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudPLD": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudPLD0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 1861.0,
+        "Y": 367.0
+      },
+      "JobHudMCH0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudMCH": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudSMN": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudSMN0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudSMN1": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudBRD": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudBRD0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      }
+    },
+    {
+      "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.Numerics.Vector2, System.Private.CoreLib]], System.Private.CoreLib",
+      "JobHudACN0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 1947.0,
+        "Y": 533.0
+      },
+      "JobHudSCH0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 1851.0,
+        "Y": 367.0
+      },
+      "JobHudDNC": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudDNC0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudDNC1": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudNotice": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 2400.0,
+        "Y": 1344.0
+      },
+      "JobHudSAM0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 1764.0,
+        "Y": 612.0
+      },
+      "JobHudSAM1": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 1773.0,
+        "Y": 346.0
+      },
+      "JobHudNIN": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudNIN0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 1843.0,
+        "Y": 557.0
+      },
+      "JobHudNIN1": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 1829.0,
+        "Y": 346.0
+      },
+      "JobHudSAM": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudRDM": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudRDM0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 1794.0,
+        "Y": 367.0
+      },
+      "JobHudBLM": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudBLM0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 1895.0,
+        "Y": 367.0
+      },
+      "JobHudDRK": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudDRK0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 1791.0,
+        "Y": 360.0
+      },
+      "JobHudDRK1": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 1796.0,
+        "Y": 497.0
+      },
+      "JobHudSCH": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudAST": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudAST0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 1889.0,
+        "Y": 367.0
+      },
+      "JobHudWHM": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudWHM0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 1939.0,
+        "Y": 367.0
+      },
+      "JobHudMNK": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudMNK1": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudGNB": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudGNB0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 1935.0,
+        "Y": 367.0
+      },
+      "JobHudWAR": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudWAR0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 1582.0,
+        "Y": 1249.0
+      },
+      "JobHudDRG": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudDRG0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 1779.0,
+        "Y": 367.0
+      },
+      "JobHudPLD": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudPLD0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 1861.0,
+        "Y": 367.0
+      },
+      "JobHudMCH0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudMCH": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudSMN": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudSMN0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 1987.0,
+        "Y": 590.0
+      },
+      "JobHudSMN1": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 1805.0,
+        "Y": 367.0
+      },
+      "JobHudBRD": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudBRD0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudGFF0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 1983.0,
+        "Y": 475.0
+      },
+      "JobHudGFF1": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 1945.0,
+        "Y": 634.0
+      },
+      "JobHudGFF": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudRRP0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudRRP1": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudMNK0": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudACN": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "JobHudMRD": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      }
+    }
+  ],
+  "Enabled": true,
+  "Version": "2.1.1.1"
+}

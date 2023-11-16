@@ -1,0 +1,12 @@
+{
+  "SoloMode": false,
+  "DutiesOnly": false,
+  "DisableInSanctuary": false,
+  "Enabled": false,
+  "Priority": 1,
+  "CustomWarning": false,
+  "CustomWarningText": "",
+  "DisableInCombat": true,
+  "EarlyWarning": true,
+  "EarlyWarningTime": 300
+}

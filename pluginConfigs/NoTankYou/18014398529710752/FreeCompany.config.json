@@ -1,0 +1,13 @@
+{
+  "Mode": 0,
+  "SoloMode": false,
+  "DutiesOnly": false,
+  "DisableInSanctuary": false,
+  "Enabled": false,
+  "Priority": 2,
+  "CustomWarning": false,
+  "CustomWarningText": "",
+  "BuffCount": 2,
+  "PrimaryBuff": 360,
+  "SecondaryBuff": 364
+}

@@ -1,0 +1,85 @@
+{
+  "$type": "DelvUI.Interface.GeneralElements.MeleeColorConfig, DelvUI",
+  "MNKColor": {
+    "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+    "Vector": {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.8392157,
+      "Y": 0.6117647,
+      "Z": 0.0,
+      "W": 1.0
+    }
+  },
+  "NINColor": {
+    "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+    "Vector": {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.6862745,
+      "Y": 0.09803922,
+      "Z": 0.39215687,
+      "W": 1.0
+    }
+  },
+  "DRGColor": {
+    "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+    "Vector": {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.25490198,
+      "Y": 0.39215687,
+      "Z": 0.8039216,
+      "W": 1.0
+    }
+  },
+  "SAMColor": {
+    "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+    "Vector": {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.89411765,
+      "Y": 0.42745098,
+      "Z": 0.015686275,
+      "W": 1.0
+    }
+  },
+  "RPRColor": {
+    "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+    "Vector": {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.5882353,
+      "Y": 0.3529412,
+      "Z": 0.5647059,
+      "W": 1.0
+    }
+  },
+  "PGLColor": {
+    "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+    "Vector": {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.8392157,
+      "Y": 0.6117647,
+      "Z": 0.0,
+      "W": 1.0
+    }
+  },
+  "ROGColor": {
+    "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+    "Vector": {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.6862745,
+      "Y": 0.09803922,
+      "Z": 0.39215687,
+      "W": 1.0
+    }
+  },
+  "LNCColor": {
+    "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+    "Vector": {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.25490198,
+      "Y": 0.39215687,
+      "Z": 0.8039216,
+      "W": 1.0
+    }
+  },
+  "Enabled": true,
+  "Version": "2.1.1.1"
+}

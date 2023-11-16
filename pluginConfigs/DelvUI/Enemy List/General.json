@@ -1,0 +1,15 @@
+{
+  "$type": "DelvUI.Interface.EnemyList.EnemyListConfig, DelvUI",
+  "Preview": false,
+  "GrowthDirection": 0,
+  "VerticalPadding": 2,
+  "Strata": 5,
+  "Position": {
+    "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+    "X": 1022.0,
+    "Y": -423.0
+  },
+  "Enabled": true,
+  "StrataLevel": 5,
+  "Version": "2.1.1.1"
+}

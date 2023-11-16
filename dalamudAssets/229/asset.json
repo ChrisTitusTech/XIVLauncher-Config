@@ -1,0 +1,141 @@
+{
+  "Version": 229,
+  "Assets": [
+    {
+      "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/serveropcode.json",
+      "FileName": "UIRes/serveropcode.json"
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/clientopcode.json",
+      "FileName": "UIRes/clientopcode.json"
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/bannedplugin.json",
+      "FileName": "UIRes/bannedplugin.json"
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/NotoSansCJKjp-Medium.otf",
+      "FileName": "UIRes/NotoSansCJKjp-Medium.otf",
+      "Hash": "7334F0BADA3A7D52E1C642217EB7EA21BE700421"
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/NotoSansKR-Regular.otf",
+      "FileName": "UIRes/NotoSansKR-Regular.otf",
+      "Hash": "5F533D0D5CAF3847AFA2D78301E7B87B3485ECBC"
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/FontAwesomeFreeSolid.otf",
+      "FileName": "UIRes/FontAwesomeFreeSolid.otf",
+      "Hash": "4860698FEE75A5481CB00C744B7EB297ABDC455D"
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/Inconsolata-Regular.ttf",
+      "FileName": "UIRes/Inconsolata-Regular.ttf",
+      "Hash": "FBE9E14427D84CE3F25F4D6A8EF57F527DB5A154"
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/logo.png",
+      "FileName": "UIRes/logo.png",
+      "Hash": "0F6323DDFA3665639142252281D22C675D8CD617"
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/tsmShade.png",
+      "FileName": "UIRes/tsmShade.png",
+      "Hash": "AB7EE2E20955CDC4B98886BE7AEE962A98105D4B"
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/tsmLogo.png",
+      "FileName": "UIRes/tsmLogo.png",
+      "Hash": "DAC17EE20C63A0CD0C5040A8A900E3CA1B67C5CC"
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/defaultIcon.png",
+      "FileName": "UIRes/defaultIcon.png",
+      "Hash": "81185C2BCC5DF0B52B610187EB3B9671C7FB0568"
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/disabledIcon.png",
+      "FileName": "UIRes/disabledIcon.png",
+      "Hash": "3AFC19400A6475198503DCC25314BCBCDC03B929"
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/outdatedInstallableIcon.png",
+      "FileName": "UIRes/outdatedInstallableIcon.png",
+      "Hash": "BA96E817FE8EE2FCC976DEC986973C78BE3A37AE"
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/troubleIcon.png",
+      "FileName": "UIRes/troubleIcon.png",
+      "Hash": "82F7C168A9C712BFCBADD7CFD49060BBC446A634"
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/updateIcon.png",
+      "FileName": "UIRes/updateIcon.png",
+      "Hash": "544DA1125ADC03D63610127DC76E1FC5175615D3"
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/installedIcon.png",
+      "FileName": "UIRes/installedIcon.png",
+      "Hash": "F9A7E334CB719CF36B265A212B3D32A4578429B4"
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/thirdIcon.png",
+      "FileName": "UIRes/thirdIcon.png",
+      "Hash": "2DFA794867B1ABFEFFF2923FF3C1E06801F9CBC1"
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/changelogApiBump.png",
+      "FileName": "UIRes/changelogApiBump.png",
+      "Hash": "16BB14DEF2AD9894C9DA37483A6B0B9AADFCD72D"
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/thirdInstalledIcon.png",
+      "FileName": "UIRes/thirdInstalledIcon.png",
+      "Hash": "05E2B4508517646F0FC4E55A821F9A990B2559F7"
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/loc/dalamud/dalamud_de.json",
+      "FileName": "UIRes/loc/dalamud/dalamud_de.json"
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/loc/dalamud/dalamud_es.json",
+      "FileName": "UIRes/loc/dalamud/dalamud_es.json"
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/loc/dalamud/dalamud_fr.json",
+      "FileName": "UIRes/loc/dalamud/dalamud_fr.json"
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/loc/dalamud/dalamud_it.json",
+      "FileName": "UIRes/loc/dalamud/dalamud_it.json"
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/loc/dalamud/dalamud_ja.json",
+      "FileName": "UIRes/loc/dalamud/dalamud_ja.json"
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/loc/dalamud/dalamud_ko.json",
+      "FileName": "UIRes/loc/dalamud/dalamud_ko.json"
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/loc/dalamud/dalamud_no.json",
+      "FileName": "UIRes/loc/dalamud/dalamud_no.json"
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/loc/dalamud/dalamud_ru.json",
+      "FileName": "UIRes/loc/dalamud/dalamud_ru.json"
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/loc/dalamud/dalamud_zh.json",
+      "FileName": "UIRes/loc/dalamud/dalamud_zh.json"
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/loc/dalamud/dalamud_tw.json",
+      "FileName": "UIRes/loc/dalamud/dalamud_tw.json"
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/pdb/ffxiv_dx11.pdb",
+      "FileName": "UIRes/pdb/ffxiv_dx11.pdb"
+    }
+  ]
+}

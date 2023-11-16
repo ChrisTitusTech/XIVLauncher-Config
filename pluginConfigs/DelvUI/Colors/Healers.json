@@ -1,0 +1,55 @@
+{
+  "$type": "DelvUI.Interface.GeneralElements.HealersColorConfig, DelvUI",
+  "SCHColor": {
+    "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+    "Vector": {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.5254902,
+      "Y": 0.34117648,
+      "Z": 1.0,
+      "W": 1.0
+    }
+  },
+  "WHMColor": {
+    "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+    "Vector": {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 1.0,
+      "Y": 0.9411765,
+      "Z": 0.8627451,
+      "W": 1.0
+    }
+  },
+  "ASTColor": {
+    "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+    "Vector": {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 1.0,
+      "Y": 0.90588236,
+      "Z": 0.2901961,
+      "W": 1.0
+    }
+  },
+  "SGEColor": {
+    "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+    "Vector": {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.5647059,
+      "Y": 0.6901961,
+      "Z": 1.0,
+      "W": 1.0
+    }
+  },
+  "CNJColor": {
+    "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+    "Vector": {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 1.0,
+      "Y": 0.9411765,
+      "Z": 0.8627451,
+      "W": 1.0
+    }
+  },
+  "Enabled": true,
+  "Version": "2.1.1.1"
+}

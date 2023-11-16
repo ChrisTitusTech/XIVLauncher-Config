@@ -1,0 +1,12 @@
+{
+  "$type": "PennyPincher.Configuration, PennyPincher",
+  "Version": 2,
+  "alwaysOn": false,
+  "delta": 1,
+  "hq": false,
+  "min": 1,
+  "mod": 1,
+  "multiple": 1,
+  "undercutSelf": false,
+  "verbose": true
+}

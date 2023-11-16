@@ -1,0 +1,2046 @@
+{
+  "$type": "Dalamud.Configuration.Internal.DalamudConfiguration, Dalamud",
+  "BadWords": null,
+  "DutyFinderTaskbarFlash": true,
+  "DutyFinderChatMessage": true,
+  "LanguageOverride": "en",
+  "LastVersion": "9.0.0.12",
+  "SeenFtueLevel": 1,
+  "LastChangelogMajorMinor": "9.0.",
+  "GeneralChatType": 1,
+  "DoPluginTest": false,
+  "DalamudBetaKey": null,
+  "ThirdRepoList": {
+    "$type": "System.Collections.Generic.List`1[[Dalamud.Configuration.ThirdPartyRepoSettings, Dalamud]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Dalamud.Configuration.ThirdPartyRepoSettings, Dalamud",
+        "Url": "https://raw.githubusercontent.com/lichie567/XIVAuras/main/repo.json",
+        "IsEnabled": true,
+        "Name": null
+      },
+      {
+        "$type": "Dalamud.Configuration.ThirdPartyRepoSettings, Dalamud",
+        "Url": "https://raw.githubusercontent.com/xivdev/Penumbra/master/repo.json",
+        "IsEnabled": true,
+        "Name": null
+      },
+      {
+        "$type": "Dalamud.Configuration.ThirdPartyRepoSettings, Dalamud",
+        "Url": "https://raw.githubusercontent.com/Sevii77/ffxiv_materialui_accent/master/repo.json",
+        "IsEnabled": true,
+        "Name": null
+      },
+      {
+        "$type": "Dalamud.Configuration.ThirdPartyRepoSettings, Dalamud",
+        "Url": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
+        "IsEnabled": true,
+        "Name": null
+      },
+      {
+        "$type": "Dalamud.Configuration.ThirdPartyRepoSettings, Dalamud",
+        "Url": "https://raw.githubusercontent.com/lichie567/LMeter/main/repo.json",
+        "IsEnabled": true,
+        "Name": null
+      },
+      {
+        "$type": "Dalamud.Configuration.ThirdPartyRepoSettings, Dalamud",
+        "Url": "https://love.puni.sh/ment.json",
+        "IsEnabled": true,
+        "Name": null
+      }
+    ]
+  },
+  "ThirdRepoSpeedbumpDismissed": true,
+  "HiddenPluginInternalName": {
+    "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+    "$values": []
+  },
+  "SeenPluginInternalName": {
+    "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+    "$values": [
+      "DeathRecap",
+      "SimpleTweaksPlugin",
+      "GatherBuddy",
+      "DailyDuty",
+      "NoTankYou",
+      "PennyPincher",
+      "XIVCombo",
+      "JobBars",
+      "TeleporterPlugin",
+      "MarketBoardPlugin",
+      "PriceInsight",
+      "CharacterPanelRefined",
+      "DelvUI",
+      "Penumbra",
+      "AbilityAnts",
+      "Accountant",
+      "Dalamud.CharacterSync",
+      "MonsterLootHunter",
+      "MaterialUI",
+      "TextAdvance",
+      "Dalamud.FindAnything",
+      "ARealmRecorded",
+      "EnmityHp",
+      "LMeter",
+      "AntiAfkKick-Dalamud",
+      "DamageInfoPlugin",
+      "AdaptiveHud",
+      "Dalamud.RichPresence",
+      "BozjaBuddy",
+      "CurrencyAlert",
+      "ChillFrames",
+      "SortaKinda",
+      "YesAlready",
+      "Artisan",
+      "DSREyeLocator",
+      "Instancinator",
+      "LazyLoot",
+      "Lifestream",
+      "Orbwalker",
+      "AutoRetainer"
+    ]
+  },
+  "DevPluginSettings": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[Dalamud.Configuration.Internal.DevPluginSettings, Dalamud]], System.Private.CoreLib"
+  },
+  "DevPluginLoadLocations": {
+    "$type": "System.Collections.Generic.List`1[[Dalamud.Configuration.DevPluginLocationSettings, Dalamud]], System.Private.CoreLib",
+    "$values": []
+  },
+  "GlobalUiScale": 1.0,
+  "UseAxisFontsFromGame": false,
+  "FontGammaLevel": 1.4,
+  "ToggleUiHide": true,
+  "ToggleUiHideDuringCutscenes": true,
+  "ToggleUiHideDuringGpose": true,
+  "PrintDalamudWelcomeMsg": true,
+  "PrintPluginsWelcomeMsg": true,
+  "AutoUpdatePlugins": false,
+  "DoButtonsSystemMenu": true,
+  "LogLevel": 2,
+  "LogSynchronously": false,
+  "LogAutoScroll": true,
+  "LogOpenAtStartup": false,
+  "DevBarOpenAtStartup": false,
+  "AssertsEnabledAtStartup": false,
+  "IsDocking": false,
+  "EnablePluginUISoundEffects": false,
+  "EnablePluginUiAdditionalOptionsExperimental": false,
+  "IsDisableViewport": true,
+  "IsGamepadNavigationEnabled": true,
+  "IsFocusManagementEnabled": true,
+  "IsAntiAntiDebugEnabled": false,
+  "IsResumeGameAfterPluginLoad": false,
+  "DalamudBetaKind": null,
+  "PluginSafeMode": false,
+  "PluginWaitBeforeFree": null,
+  "ReportShutdownCrashes": false,
+  "SavedStyles": null,
+  "SavedStylesVersioned": {
+    "$type": "System.Collections.Generic.List`1[[Dalamud.Interface.Style.StyleModel, Dalamud]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Dalamud.Interface.Style.StyleModelV1, Dalamud",
+        "a": 1.0,
+        "b": {
+          "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+          "X": 8.0,
+          "Y": 8.0
+        },
+        "c": 4.0,
+        "d": 0.0,
+        "e": {
+          "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.5
+        },
+        "f": 1,
+        "g": 0.0,
+        "h": 1.0,
+        "i": 0.0,
+        "ab": 0.0,
+        "j": {
+          "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+          "X": 4.0,
+          "Y": 3.0
+        },
+        "k": 4.0,
+        "l": 0.0,
+        "m": {
+          "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+          "X": 8.0,
+          "Y": 4.0
+        },
+        "n": {
+          "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+          "X": 4.0,
+          "Y": 4.0
+        },
+        "o": {
+          "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+          "X": 4.0,
+          "Y": 2.0
+        },
+        "p": {
+          "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "q": 21.0,
+        "r": 16.0,
+        "s": 9.0,
+        "t": 13.0,
+        "u": 3.0,
+        "v": 4.0,
+        "w": 4.0,
+        "x": 0.0,
+        "y": {
+          "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+          "X": 0.5,
+          "Y": 0.5
+        },
+        "z": {
+          "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "aa": {
+          "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+          "X": 3.0,
+          "Y": 3.0
+        },
+        "col": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+          "Text": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0,
+            "W": 1.0
+          },
+          "TextDisabled": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.5,
+            "Y": 0.5,
+            "Z": 0.5,
+            "W": 1.0
+          },
+          "WindowBg": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.06,
+            "Y": 0.06,
+            "Z": 0.06,
+            "W": 0.93
+          },
+          "ChildBg": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 0.0
+          },
+          "PopupBg": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.08,
+            "Y": 0.08,
+            "Z": 0.08,
+            "W": 0.94
+          },
+          "Border": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.43,
+            "Y": 0.43,
+            "Z": 0.5,
+            "W": 0.5
+          },
+          "BorderShadow": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 0.0
+          },
+          "FrameBg": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.29,
+            "Y": 0.29,
+            "Z": 0.29,
+            "W": 0.54
+          },
+          "FrameBgHovered": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.54,
+            "Y": 0.54,
+            "Z": 0.54,
+            "W": 0.4
+          },
+          "FrameBgActive": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.64,
+            "Y": 0.64,
+            "Z": 0.64,
+            "W": 0.67
+          },
+          "TitleBg": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.022624433,
+            "Y": 0.022624206,
+            "Z": 0.022624206,
+            "W": 0.85067874
+          },
+          "TitleBgActive": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.38914025,
+            "Y": 0.10917056,
+            "Z": 0.10917056,
+            "W": 0.8280543
+          },
+          "TitleBgCollapsed": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 0.51
+          },
+          "MenuBarBg": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.14,
+            "Y": 0.14,
+            "Z": 0.14,
+            "W": 1.0
+          },
+          "ScrollbarBg": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 0.0
+          },
+          "ScrollbarGrab": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.31,
+            "Y": 0.31,
+            "Z": 0.31,
+            "W": 1.0
+          },
+          "ScrollbarGrabHovered": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.41,
+            "Y": 0.41,
+            "Z": 0.41,
+            "W": 1.0
+          },
+          "ScrollbarGrabActive": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.51,
+            "Y": 0.51,
+            "Z": 0.51,
+            "W": 1.0
+          },
+          "CheckMark": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.86,
+            "Y": 0.86,
+            "Z": 0.86,
+            "W": 1.0
+          },
+          "SliderGrab": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.54,
+            "Y": 0.54,
+            "Z": 0.54,
+            "W": 1.0
+          },
+          "SliderGrabActive": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.67,
+            "Y": 0.67,
+            "Z": 0.67,
+            "W": 1.0
+          },
+          "Button": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.71,
+            "Y": 0.71,
+            "Z": 0.71,
+            "W": 0.4
+          },
+          "ButtonHovered": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.3647059,
+            "Y": 0.078431375,
+            "Z": 0.078431375,
+            "W": 0.94509804
+          },
+          "ButtonActive": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.48416287,
+            "Y": 0.10077597,
+            "Z": 0.10077597,
+            "W": 0.94509804
+          },
+          "Header": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.59,
+            "Y": 0.59,
+            "Z": 0.59,
+            "W": 0.31
+          },
+          "HeaderHovered": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.5,
+            "Y": 0.5,
+            "Z": 0.5,
+            "W": 0.8
+          },
+          "HeaderActive": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.6,
+            "Y": 0.6,
+            "Z": 0.6,
+            "W": 1.0
+          },
+          "Separator": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.43,
+            "Y": 0.43,
+            "Z": 0.5,
+            "W": 0.5
+          },
+          "SeparatorHovered": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.3647059,
+            "Y": 0.078431375,
+            "Z": 0.078431375,
+            "W": 0.78280544
+          },
+          "SeparatorActive": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.3647059,
+            "Y": 0.078431375,
+            "Z": 0.078431375,
+            "W": 0.94509804
+          },
+          "ResizeGrip": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.79,
+            "Y": 0.79,
+            "Z": 0.79,
+            "W": 0.25
+          },
+          "ResizeGripHovered": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.78,
+            "Y": 0.78,
+            "Z": 0.78,
+            "W": 0.67
+          },
+          "ResizeGripActive": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.3647059,
+            "Y": 0.078431375,
+            "Z": 0.078431375,
+            "W": 0.94509804
+          },
+          "Tab": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.23,
+            "Y": 0.23,
+            "Z": 0.23,
+            "W": 0.86
+          },
+          "TabHovered": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.58371043,
+            "Y": 0.30374074,
+            "Z": 0.30374074,
+            "W": 0.7647059
+          },
+          "TabActive": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.47963798,
+            "Y": 0.15843244,
+            "Z": 0.15843244,
+            "W": 0.7647059
+          },
+          "TabUnfocused": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.068,
+            "Y": 0.10199998,
+            "Z": 0.14800003,
+            "W": 0.9724
+          },
+          "TabUnfocusedActive": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.13599998,
+            "Y": 0.26199996,
+            "Z": 0.424,
+            "W": 1.0
+          },
+          "DockingPreview": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.26,
+            "Y": 0.59,
+            "Z": 0.98,
+            "W": 0.7
+          },
+          "DockingEmptyBg": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.2,
+            "Y": 0.2,
+            "Z": 0.2,
+            "W": 1.0
+          },
+          "PlotLines": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.61,
+            "Y": 0.61,
+            "Z": 0.61,
+            "W": 1.0
+          },
+          "PlotLinesHovered": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 1.0,
+            "Y": 0.43,
+            "Z": 0.35,
+            "W": 1.0
+          },
+          "PlotHistogram": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.9,
+            "Y": 0.7,
+            "Z": 0.0,
+            "W": 1.0
+          },
+          "PlotHistogramHovered": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 1.0,
+            "Y": 0.6,
+            "Z": 0.0,
+            "W": 1.0
+          },
+          "TableHeaderBg": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.19,
+            "Y": 0.19,
+            "Z": 0.2,
+            "W": 1.0
+          },
+          "TableBorderStrong": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.31,
+            "Y": 0.31,
+            "Z": 0.35,
+            "W": 1.0
+          },
+          "TableBorderLight": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.23,
+            "Y": 0.23,
+            "Z": 0.25,
+            "W": 1.0
+          },
+          "TableRowBg": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 0.0
+          },
+          "TableRowBgAlt": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0,
+            "W": 0.06
+          },
+          "TextSelectedBg": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.26,
+            "Y": 0.59,
+            "Z": 0.98,
+            "W": 0.35
+          },
+          "DragDropTarget": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 0.0,
+            "W": 0.9
+          },
+          "NavHighlight": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.26,
+            "Y": 0.59,
+            "Z": 0.98,
+            "W": 1.0
+          },
+          "NavWindowingHighlight": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0,
+            "W": 0.7
+          },
+          "NavWindowingDimBg": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.8,
+            "Y": 0.8,
+            "Z": 0.8,
+            "W": 0.2
+          },
+          "ModalWindowDimBg": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.8,
+            "Y": 0.8,
+            "Z": 0.8,
+            "W": 0.35
+          }
+        },
+        "name": "Dalamud Standard",
+        "dol": {
+          "$type": "Dalamud.Interface.Style.DalamudColors, Dalamud",
+          "a": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 1.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0
+          },
+          "b": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 0.7,
+            "Y": 0.7,
+            "Z": 0.7,
+            "W": 1.0
+          },
+          "c": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 0.7,
+            "Y": 0.7,
+            "Z": 0.7,
+            "W": 1.0
+          },
+          "d": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 0.5,
+            "Y": 0.5,
+            "Z": 0.5,
+            "W": 1.0
+          },
+          "e": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0,
+            "W": 1.0
+          },
+          "f": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 0.878,
+            "Y": 0.878,
+            "Z": 0.878,
+            "W": 1.0
+          },
+          "g": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 1.0,
+            "Y": 0.709,
+            "Z": 0.0,
+            "W": 1.0
+          },
+          "h": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.6,
+            "Z": 1.0,
+            "W": 1.0
+          },
+          "i": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.8,
+            "Z": 0.1333333,
+            "W": 1.0
+          },
+          "j": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 0.7058824,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0
+          },
+          "k": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 0.4,
+            "W": 1.0
+          },
+          "l": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 0.77,
+            "Y": 0.7,
+            "Z": 0.965,
+            "W": 1.0
+          },
+          "m": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 0.4,
+            "Y": 0.4,
+            "Z": 0.4,
+            "W": 1.0
+          },
+          "n": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 0.117,
+            "Y": 1.0,
+            "Z": 0.0,
+            "W": 1.0
+          },
+          "o": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.439,
+            "Z": 1.0,
+            "W": 1.0
+          },
+          "p": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 0.639,
+            "Y": 0.207,
+            "Z": 0.933,
+            "W": 1.0
+          },
+          "q": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 1.0,
+            "Y": 0.501,
+            "Z": 0.0,
+            "W": 1.0
+          },
+          "r": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 0.886,
+            "Y": 0.407,
+            "Z": 0.658,
+            "W": 1.0
+          },
+          "s": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 0.898,
+            "Y": 0.8,
+            "Z": 0.501,
+            "W": 1.0
+          }
+        },
+        "ver": 0
+      },
+      {
+        "$type": "Dalamud.Interface.Style.StyleModelV1, Dalamud",
+        "a": 1.0,
+        "b": {
+          "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+          "X": 8.0,
+          "Y": 8.0
+        },
+        "c": 4.0,
+        "d": 0.0,
+        "e": {
+          "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.5
+        },
+        "f": 1,
+        "g": 0.0,
+        "h": 1.0,
+        "i": 0.0,
+        "ab": 0.0,
+        "j": {
+          "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+          "X": 4.0,
+          "Y": 3.0
+        },
+        "k": 4.0,
+        "l": 0.0,
+        "m": {
+          "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+          "X": 8.0,
+          "Y": 4.0
+        },
+        "n": {
+          "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+          "X": 4.0,
+          "Y": 4.0
+        },
+        "o": {
+          "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+          "X": 4.0,
+          "Y": 2.0
+        },
+        "p": {
+          "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "q": 21.0,
+        "r": 16.0,
+        "s": 9.0,
+        "t": 10.0,
+        "u": 3.0,
+        "v": 4.0,
+        "w": 4.0,
+        "x": 0.0,
+        "y": {
+          "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+          "X": 0.5,
+          "Y": 0.5
+        },
+        "z": {
+          "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "aa": {
+          "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+          "X": 3.0,
+          "Y": 3.0
+        },
+        "col": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+          "Text": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0,
+            "W": 1.0
+          },
+          "TextDisabled": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.5,
+            "Y": 0.5,
+            "Z": 0.5,
+            "W": 1.0
+          },
+          "WindowBg": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.06,
+            "Y": 0.06,
+            "Z": 0.06,
+            "W": 0.87
+          },
+          "ChildBg": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 0.0
+          },
+          "PopupBg": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.08,
+            "Y": 0.08,
+            "Z": 0.08,
+            "W": 0.94
+          },
+          "Border": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.43,
+            "Y": 0.43,
+            "Z": 0.5,
+            "W": 0.5
+          },
+          "BorderShadow": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 0.0
+          },
+          "FrameBg": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.29,
+            "Y": 0.29,
+            "Z": 0.29,
+            "W": 0.54
+          },
+          "FrameBgHovered": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.54,
+            "Y": 0.54,
+            "Z": 0.54,
+            "W": 0.4
+          },
+          "FrameBgActive": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.64,
+            "Y": 0.64,
+            "Z": 0.64,
+            "W": 0.67
+          },
+          "TitleBg": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.04,
+            "Y": 0.04,
+            "Z": 0.04,
+            "W": 1.0
+          },
+          "TitleBgActive": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.29,
+            "Y": 0.29,
+            "Z": 0.29,
+            "W": 1.0
+          },
+          "TitleBgCollapsed": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 0.51
+          },
+          "MenuBarBg": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.14,
+            "Y": 0.14,
+            "Z": 0.14,
+            "W": 1.0
+          },
+          "ScrollbarBg": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 0.0
+          },
+          "ScrollbarGrab": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.31,
+            "Y": 0.31,
+            "Z": 0.31,
+            "W": 1.0
+          },
+          "ScrollbarGrabHovered": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.41,
+            "Y": 0.41,
+            "Z": 0.41,
+            "W": 1.0
+          },
+          "ScrollbarGrabActive": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.51,
+            "Y": 0.51,
+            "Z": 0.51,
+            "W": 1.0
+          },
+          "CheckMark": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.86,
+            "Y": 0.86,
+            "Z": 0.86,
+            "W": 1.0
+          },
+          "SliderGrab": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.54,
+            "Y": 0.54,
+            "Z": 0.54,
+            "W": 1.0
+          },
+          "SliderGrabActive": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.67,
+            "Y": 0.67,
+            "Z": 0.67,
+            "W": 1.0
+          },
+          "Button": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.71,
+            "Y": 0.71,
+            "Z": 0.71,
+            "W": 0.4
+          },
+          "ButtonHovered": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.47,
+            "Y": 0.47,
+            "Z": 0.47,
+            "W": 1.0
+          },
+          "ButtonActive": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.74,
+            "Y": 0.74,
+            "Z": 0.74,
+            "W": 1.0
+          },
+          "Header": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.59,
+            "Y": 0.59,
+            "Z": 0.59,
+            "W": 0.31
+          },
+          "HeaderHovered": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.5,
+            "Y": 0.5,
+            "Z": 0.5,
+            "W": 0.8
+          },
+          "HeaderActive": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.6,
+            "Y": 0.6,
+            "Z": 0.6,
+            "W": 1.0
+          },
+          "Separator": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.43,
+            "Y": 0.43,
+            "Z": 0.5,
+            "W": 0.5
+          },
+          "SeparatorHovered": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.1,
+            "Y": 0.4,
+            "Z": 0.75,
+            "W": 0.78
+          },
+          "SeparatorActive": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.1,
+            "Y": 0.4,
+            "Z": 0.75,
+            "W": 1.0
+          },
+          "ResizeGrip": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.79,
+            "Y": 0.79,
+            "Z": 0.79,
+            "W": 0.25
+          },
+          "ResizeGripHovered": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.78,
+            "Y": 0.78,
+            "Z": 0.78,
+            "W": 0.67
+          },
+          "ResizeGripActive": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.88,
+            "Y": 0.88,
+            "Z": 0.88,
+            "W": 0.95
+          },
+          "Tab": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.23,
+            "Y": 0.23,
+            "Z": 0.23,
+            "W": 0.86
+          },
+          "TabHovered": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.71,
+            "Y": 0.71,
+            "Z": 0.71,
+            "W": 0.8
+          },
+          "TabActive": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.36,
+            "Y": 0.36,
+            "Z": 0.36,
+            "W": 1.0
+          },
+          "TabUnfocused": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.068,
+            "Y": 0.10199998,
+            "Z": 0.14800003,
+            "W": 0.9724
+          },
+          "TabUnfocusedActive": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.13599998,
+            "Y": 0.26199996,
+            "Z": 0.424,
+            "W": 1.0
+          },
+          "DockingPreview": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.26,
+            "Y": 0.59,
+            "Z": 0.98,
+            "W": 0.7
+          },
+          "DockingEmptyBg": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.2,
+            "Y": 0.2,
+            "Z": 0.2,
+            "W": 1.0
+          },
+          "PlotLines": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.61,
+            "Y": 0.61,
+            "Z": 0.61,
+            "W": 1.0
+          },
+          "PlotLinesHovered": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 1.0,
+            "Y": 0.43,
+            "Z": 0.35,
+            "W": 1.0
+          },
+          "PlotHistogram": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.9,
+            "Y": 0.7,
+            "Z": 0.0,
+            "W": 1.0
+          },
+          "PlotHistogramHovered": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 1.0,
+            "Y": 0.6,
+            "Z": 0.0,
+            "W": 1.0
+          },
+          "TableHeaderBg": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.19,
+            "Y": 0.19,
+            "Z": 0.2,
+            "W": 1.0
+          },
+          "TableBorderStrong": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.31,
+            "Y": 0.31,
+            "Z": 0.35,
+            "W": 1.0
+          },
+          "TableBorderLight": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.23,
+            "Y": 0.23,
+            "Z": 0.25,
+            "W": 1.0
+          },
+          "TableRowBg": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 0.0
+          },
+          "TableRowBgAlt": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0,
+            "W": 0.06
+          },
+          "TextSelectedBg": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.26,
+            "Y": 0.59,
+            "Z": 0.98,
+            "W": 0.35
+          },
+          "DragDropTarget": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 0.0,
+            "W": 0.9
+          },
+          "NavHighlight": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.26,
+            "Y": 0.59,
+            "Z": 0.98,
+            "W": 1.0
+          },
+          "NavWindowingHighlight": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0,
+            "W": 0.7
+          },
+          "NavWindowingDimBg": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.8,
+            "Y": 0.8,
+            "Z": 0.8,
+            "W": 0.2
+          },
+          "ModalWindowDimBg": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.8,
+            "Y": 0.8,
+            "Z": 0.8,
+            "W": 0.35
+          }
+        },
+        "name": "Dalamud Classic",
+        "dol": {
+          "$type": "Dalamud.Interface.Style.DalamudColors, Dalamud",
+          "a": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 1.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0
+          },
+          "b": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 0.7,
+            "Y": 0.7,
+            "Z": 0.7,
+            "W": 1.0
+          },
+          "c": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 0.7,
+            "Y": 0.7,
+            "Z": 0.7,
+            "W": 1.0
+          },
+          "d": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 0.5,
+            "Y": 0.5,
+            "Z": 0.5,
+            "W": 1.0
+          },
+          "e": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0,
+            "W": 1.0
+          },
+          "f": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 0.878,
+            "Y": 0.878,
+            "Z": 0.878,
+            "W": 1.0
+          },
+          "g": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 1.0,
+            "Y": 0.709,
+            "Z": 0.0,
+            "W": 1.0
+          },
+          "h": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.6,
+            "Z": 1.0,
+            "W": 1.0
+          },
+          "i": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.8,
+            "Z": 0.1333333,
+            "W": 1.0
+          },
+          "j": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 0.7058824,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0
+          },
+          "k": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 0.4,
+            "W": 1.0
+          },
+          "l": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 0.77,
+            "Y": 0.7,
+            "Z": 0.965,
+            "W": 1.0
+          },
+          "m": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 0.4,
+            "Y": 0.4,
+            "Z": 0.4,
+            "W": 1.0
+          },
+          "n": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 0.117,
+            "Y": 1.0,
+            "Z": 0.0,
+            "W": 1.0
+          },
+          "o": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.439,
+            "Z": 1.0,
+            "W": 1.0
+          },
+          "p": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 0.639,
+            "Y": 0.207,
+            "Z": 0.933,
+            "W": 1.0
+          },
+          "q": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 1.0,
+            "Y": 0.501,
+            "Z": 0.0,
+            "W": 1.0
+          },
+          "r": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 0.886,
+            "Y": 0.407,
+            "Z": 0.658,
+            "W": 1.0
+          },
+          "s": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 0.898,
+            "Y": 0.8,
+            "Z": 0.501,
+            "W": 1.0
+          }
+        },
+        "ver": 0
+      },
+      {
+        "$type": "Dalamud.Interface.Style.StyleModelV1, Dalamud",
+        "a": 1.0,
+        "b": {
+          "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+          "X": 10.0,
+          "Y": 6.0
+        },
+        "c": 0.0,
+        "d": 1.0,
+        "e": {
+          "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.5
+        },
+        "f": 1,
+        "g": 0.0,
+        "h": 0.0,
+        "i": 0.0,
+        "ab": 1.0,
+        "j": {
+          "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+          "X": 6.0,
+          "Y": 2.0
+        },
+        "k": 0.0,
+        "l": 0.0,
+        "m": {
+          "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+          "X": 10.0,
+          "Y": 6.0
+        },
+        "n": {
+          "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+          "X": 4.0,
+          "Y": 4.0
+        },
+        "o": {
+          "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+          "X": 4.0,
+          "Y": 4.0
+        },
+        "p": {
+          "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+          "X": 2.0,
+          "Y": 2.0
+        },
+        "q": 21.0,
+        "r": 11.0,
+        "s": 12.0,
+        "t": 17.0,
+        "u": 12.0,
+        "v": 4.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": {
+          "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+          "X": 0.5,
+          "Y": 0.5
+        },
+        "z": {
+          "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "aa": {
+          "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+          "X": 3.0,
+          "Y": 3.0
+        },
+        "col": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+          "Text": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0,
+            "W": 1.0
+          },
+          "TextDisabled": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.5019608,
+            "Y": 0.5019608,
+            "Z": 0.5019608,
+            "W": 1.0
+          },
+          "WindowBg": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.12941177,
+            "Y": 0.1254902,
+            "Z": 0.12941177,
+            "W": 1.0
+          },
+          "ChildBg": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 0.0
+          },
+          "PopupBg": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.08955222,
+            "Y": 0.08955222,
+            "Z": 0.08955222,
+            "W": 1.0
+          },
+          "Border": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0
+          },
+          "BorderShadow": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 0.0
+          },
+          "FrameBg": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.16078432,
+            "Y": 0.16078432,
+            "Z": 0.16078432,
+            "W": 1.0
+          },
+          "FrameBgHovered": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.22352941,
+            "Y": 0.22352941,
+            "Z": 0.22352941,
+            "W": 1.0
+          },
+          "FrameBgActive": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.21960784,
+            "Y": 0.21568628,
+            "Z": 0.21960784,
+            "W": 1.0
+          },
+          "TitleBg": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.12941177,
+            "Y": 0.1254902,
+            "Z": 0.12941177,
+            "W": 1.0
+          },
+          "TitleBgActive": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.12941177,
+            "Y": 0.1254902,
+            "Z": 0.12941177,
+            "W": 1.0
+          },
+          "TitleBgCollapsed": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.12941177,
+            "Y": 0.1254902,
+            "Z": 0.12941177,
+            "W": 1.0
+          },
+          "MenuBarBg": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.14,
+            "Y": 0.14,
+            "Z": 0.14,
+            "W": 1.0
+          },
+          "ScrollbarBg": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 0.0
+          },
+          "ScrollbarGrab": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.24313726,
+            "Y": 0.24313726,
+            "Z": 0.24313726,
+            "W": 1.0
+          },
+          "ScrollbarGrabHovered": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.27601808,
+            "Y": 0.2760153,
+            "Z": 0.27601808,
+            "W": 1.0
+          },
+          "ScrollbarGrabActive": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.27450982,
+            "Y": 0.27450982,
+            "Z": 0.27450982,
+            "W": 1.0
+          },
+          "CheckMark": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.3882353,
+            "Y": 0.23529412,
+            "Z": 0.70980394,
+            "W": 1.0
+          },
+          "SliderGrab": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.39800596,
+            "Y": 0.39800596,
+            "Z": 0.39800596,
+            "W": 1.0
+          },
+          "SliderGrabActive": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.4825822,
+            "Y": 0.4825822,
+            "Z": 0.4825822,
+            "W": 1.0
+          },
+          "Button": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 0.0
+          },
+          "ButtonHovered": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.16078432,
+            "Y": 0.16078432,
+            "Z": 0.16078432,
+            "W": 1.0
+          },
+          "ButtonActive": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.22352941,
+            "Y": 0.22352941,
+            "Z": 0.22352941,
+            "W": 1.0
+          },
+          "Header": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 0.23529412
+          },
+          "HeaderHovered": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 0.3529412
+          },
+          "HeaderActive": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 0.47058824
+          },
+          "Separator": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 0.0
+          },
+          "SeparatorHovered": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.19411765,
+            "Y": 0.11764706,
+            "Z": 0.35490197,
+            "W": 1.0
+          },
+          "SeparatorActive": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.3882353,
+            "Y": 0.23529412,
+            "Z": 0.70980394,
+            "W": 1.0
+          },
+          "ResizeGrip": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 0.0
+          },
+          "ResizeGripHovered": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 0.0
+          },
+          "ResizeGripActive": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.3882353,
+            "Y": 0.23529412,
+            "Z": 0.70980394,
+            "W": 1.0
+          },
+          "Tab": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.16078432,
+            "Y": 0.16078432,
+            "Z": 0.16078432,
+            "W": 1.0
+          },
+          "TabHovered": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.19411765,
+            "Y": 0.11764706,
+            "Z": 0.35490197,
+            "W": 1.0
+          },
+          "TabActive": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.3882353,
+            "Y": 0.23529412,
+            "Z": 0.70980394,
+            "W": 1.0
+          },
+          "TabUnfocused": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.16078432,
+            "Y": 0.15294118,
+            "Z": 0.16078432,
+            "W": 1.0
+          },
+          "TabUnfocusedActive": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.3882353,
+            "Y": 0.23529412,
+            "Z": 0.70980394,
+            "W": 1.0
+          },
+          "DockingPreview": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.3882353,
+            "Y": 0.23529412,
+            "Z": 0.70980394,
+            "W": 0.5
+          },
+          "DockingEmptyBg": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.2,
+            "Y": 0.2,
+            "Z": 0.2,
+            "W": 1.0
+          },
+          "PlotLines": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.61,
+            "Y": 0.61,
+            "Z": 0.61,
+            "W": 1.0
+          },
+          "PlotLinesHovered": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 1.0,
+            "Y": 0.43,
+            "Z": 0.35,
+            "W": 1.0
+          },
+          "PlotHistogram": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.9,
+            "Y": 0.7,
+            "Z": 0.0,
+            "W": 1.0
+          },
+          "PlotHistogramHovered": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 1.0,
+            "Y": 0.6,
+            "Z": 0.0,
+            "W": 1.0
+          },
+          "TableHeaderBg": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.19,
+            "Y": 0.19,
+            "Z": 0.2,
+            "W": 1.0
+          },
+          "TableBorderStrong": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.31,
+            "Y": 0.31,
+            "Z": 0.35,
+            "W": 1.0
+          },
+          "TableBorderLight": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.23,
+            "Y": 0.23,
+            "Z": 0.25,
+            "W": 1.0
+          },
+          "TableRowBg": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 0.0
+          },
+          "TableRowBgAlt": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0,
+            "W": 0.06
+          },
+          "TextSelectedBg": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.3882353,
+            "Y": 0.23529412,
+            "Z": 0.70980394,
+            "W": 1.0
+          },
+          "DragDropTarget": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.3882353,
+            "Y": 0.23529412,
+            "Z": 0.70980394,
+            "W": 1.0
+          },
+          "NavHighlight": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.3882353,
+            "Y": 0.23529412,
+            "Z": 0.70980394,
+            "W": 1.0
+          },
+          "NavWindowingHighlight": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0,
+            "W": 0.7
+          },
+          "NavWindowingDimBg": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.8,
+            "Y": 0.8,
+            "Z": 0.8,
+            "W": 0.2
+          },
+          "ModalWindowDimBg": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.8,
+            "Y": 0.8,
+            "Z": 0.8,
+            "W": 0.35
+          }
+        },
+        "name": "Material UI",
+        "dol": {
+          "$type": "Dalamud.Interface.Style.DalamudColors, Dalamud",
+          "a": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 1.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0
+          },
+          "b": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 0.7,
+            "Y": 0.7,
+            "Z": 0.7,
+            "W": 1.0
+          },
+          "c": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 0.7,
+            "Y": 0.7,
+            "Z": 0.7,
+            "W": 1.0
+          },
+          "d": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 0.5,
+            "Y": 0.5,
+            "Z": 0.5,
+            "W": 1.0
+          },
+          "e": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0,
+            "W": 1.0
+          },
+          "f": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 0.878,
+            "Y": 0.878,
+            "Z": 0.878,
+            "W": 1.0
+          },
+          "g": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 1.0,
+            "Y": 0.709,
+            "Z": 0.0,
+            "W": 1.0
+          },
+          "h": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 0.12180391,
+            "Y": 0.30259418,
+            "Z": 1.6616915,
+            "W": 1.0
+          },
+          "i": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 0.16052085,
+            "Y": 0.72398186,
+            "Z": 0.2727031,
+            "W": 1.0
+          },
+          "j": {
+            "$type": "System.Nullable`1[[System.Numerics.Vector4, System.Private.CoreLib]], System.Private.CoreLib",
+            "X": 0.88687783,
+            "Y": 0.13644274,
+            "Z": 0.13644274,
+            "W": 1.0
+          },
+          "k": null,
+          "l": null,
+          "m": null,
+          "n": null,
+          "o": null,
+          "p": null,
+          "q": null,
+          "r": null,
+          "s": null
+        },
+        "ver": 0
+      }
+    ]
+  },
+  "ChosenStyle": "Material UI",
+  "SavedProfiles": {
+    "$type": "System.Collections.Generic.List`1[[Dalamud.Plugin.Internal.Profiles.ProfileModel, Dalamud]], System.Private.CoreLib",
+    "$values": []
+  },
+  "DefaultProfile": {
+    "$type": "Dalamud.Plugin.Internal.Profiles.ProfileModelV1, Dalamud",
+    "b": false,
+    "e": true,
+    "c": 0,
+    "Plugins": {
+      "$type": "System.Collections.Generic.List`1[[Dalamud.Plugin.Internal.Profiles.ProfileModelV1+ProfileModelV1Plugin, Dalamud]], System.Private.CoreLib",
+      "$values": [
+        {
+          "$type": "Dalamud.Plugin.Internal.Profiles.ProfileModelV1+ProfileModelV1Plugin, Dalamud",
+          "InternalName": "DeathRecap",
+          "IsEnabled": true
+        },
+        {
+          "$type": "Dalamud.Plugin.Internal.Profiles.ProfileModelV1+ProfileModelV1Plugin, Dalamud",
+          "InternalName": "SimpleTweaksPlugin",
+          "IsEnabled": true
+        },
+        {
+          "$type": "Dalamud.Plugin.Internal.Profiles.ProfileModelV1+ProfileModelV1Plugin, Dalamud",
+          "InternalName": "GatherBuddy",
+          "IsEnabled": false
+        },
+        {
+          "$type": "Dalamud.Plugin.Internal.Profiles.ProfileModelV1+ProfileModelV1Plugin, Dalamud",
+          "InternalName": "DailyDuty",
+          "IsEnabled": true
+        },
+        {
+          "$type": "Dalamud.Plugin.Internal.Profiles.ProfileModelV1+ProfileModelV1Plugin, Dalamud",
+          "InternalName": "NoTankYou",
+          "IsEnabled": false
+        },
+        {
+          "$type": "Dalamud.Plugin.Internal.Profiles.ProfileModelV1+ProfileModelV1Plugin, Dalamud",
+          "InternalName": "PennyPincher",
+          "IsEnabled": true
+        },
+        {
+          "$type": "Dalamud.Plugin.Internal.Profiles.ProfileModelV1+ProfileModelV1Plugin, Dalamud",
+          "InternalName": "XIVCombo",
+          "IsEnabled": true
+        },
+        {
+          "$type": "Dalamud.Plugin.Internal.Profiles.ProfileModelV1+ProfileModelV1Plugin, Dalamud",
+          "InternalName": "TeleporterPlugin",
+          "IsEnabled": true
+        },
+        {
+          "$type": "Dalamud.Plugin.Internal.Profiles.ProfileModelV1+ProfileModelV1Plugin, Dalamud",
+          "InternalName": "PriceInsight",
+          "IsEnabled": true
+        },
+        {
+          "$type": "Dalamud.Plugin.Internal.Profiles.ProfileModelV1+ProfileModelV1Plugin, Dalamud",
+          "InternalName": "CharacterPanelRefined",
+          "IsEnabled": true
+        },
+        {
+          "$type": "Dalamud.Plugin.Internal.Profiles.ProfileModelV1+ProfileModelV1Plugin, Dalamud",
+          "InternalName": "DelvUI",
+          "IsEnabled": true
+        },
+        {
+          "$type": "Dalamud.Plugin.Internal.Profiles.ProfileModelV1+ProfileModelV1Plugin, Dalamud",
+          "InternalName": "Penumbra",
+          "IsEnabled": true
+        },
+        {
+          "$type": "Dalamud.Plugin.Internal.Profiles.ProfileModelV1+ProfileModelV1Plugin, Dalamud",
+          "InternalName": "MaterialUI",
+          "IsEnabled": true
+        },
+        {
+          "$type": "Dalamud.Plugin.Internal.Profiles.ProfileModelV1+ProfileModelV1Plugin, Dalamud",
+          "InternalName": "TextAdvance",
+          "IsEnabled": true
+        },
+        {
+          "$type": "Dalamud.Plugin.Internal.Profiles.ProfileModelV1+ProfileModelV1Plugin, Dalamud",
+          "InternalName": "Dalamud.FindAnything",
+          "IsEnabled": true
+        },
+        {
+          "$type": "Dalamud.Plugin.Internal.Profiles.ProfileModelV1+ProfileModelV1Plugin, Dalamud",
+          "InternalName": "CurrencyAlert",
+          "IsEnabled": true
+        },
+        {
+          "$type": "Dalamud.Plugin.Internal.Profiles.ProfileModelV1+ProfileModelV1Plugin, Dalamud",
+          "InternalName": "ChillFrames",
+          "IsEnabled": true
+        },
+        {
+          "$type": "Dalamud.Plugin.Internal.Profiles.ProfileModelV1+ProfileModelV1Plugin, Dalamud",
+          "InternalName": "SortaKinda",
+          "IsEnabled": false
+        },
+        {
+          "$type": "Dalamud.Plugin.Internal.Profiles.ProfileModelV1+ProfileModelV1Plugin, Dalamud",
+          "InternalName": "Instancinator",
+          "IsEnabled": true
+        },
+        {
+          "$type": "Dalamud.Plugin.Internal.Profiles.ProfileModelV1+ProfileModelV1Plugin, Dalamud",
+          "InternalName": "LazyLoot",
+          "IsEnabled": true
+        },
+        {
+          "$type": "Dalamud.Plugin.Internal.Profiles.ProfileModelV1+ProfileModelV1Plugin, Dalamud",
+          "InternalName": "Lifestream",
+          "IsEnabled": true
+        },
+        {
+          "$type": "Dalamud.Plugin.Internal.Profiles.ProfileModelV1+ProfileModelV1Plugin, Dalamud",
+          "InternalName": "YesAlready",
+          "IsEnabled": true
+        },
+        {
+          "$type": "Dalamud.Plugin.Internal.Profiles.ProfileModelV1+ProfileModelV1Plugin, Dalamud",
+          "InternalName": "AutoRetainer",
+          "IsEnabled": true
+        }
+      ]
+    },
+    "id": "00000000-0000-0000-0000-000000000000",
+    "n": "DEFAULT"
+  },
+  "ProfilesEnabled": true,
+  "ProfilesHasSeenTutorial": true,
+  "DisableRmtFiltering": false,
+  "DtrOrder": {
+    "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+    "$values": [
+      "LazyLoot",
+      "YesAlready"
+    ]
+  },
+  "DtrIgnore": {
+    "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+    "$values": []
+  },
+  "DtrSpacing": 10,
+  "DtrSwapDirection": false,
+  "ShowTsm": true,
+  "IsMbCollect": true,
+  "EffectiveLanguage": "en",
+  "ShowDevBarInfo": true,
+  "LastFeedbackContactDetails": "",
+  "PluginTestingOptIns": {
+    "$type": "System.Collections.Generic.List`1[[Dalamud.Configuration.Internal.PluginTestingOptIn, Dalamud]], System.Private.CoreLib",
+    "$values": []
+  },
+  "WindowIsImmersive": false,
+  "GameNetworkUpHitch": 30.0,
+  "GameNetworkDownHitch": 30.0,
+  "FrameworkUpdateHitch": 50.0,
+  "UiBuilderHitch": 100.0,
+  "PluginInstallerOpen": 0
+}

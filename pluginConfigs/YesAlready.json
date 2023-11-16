@@ -1,0 +1,193 @@
+{
+  "$type": "YesAlready.Configuration, YesAlready",
+  "Version": 1,
+  "Enabled": true,
+  "ForcedYesKey": 0,
+  "DisableKey": 0,
+  "RootFolder": {
+    "$type": "YesAlready.TextFolderNode, YesAlready",
+    "Name": "/",
+    "Children": [
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": false,
+        "Text": "Add some text here!",
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "Leave duty?",
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "Use the teleporter?",
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "Teleport to New Gridania for 35 gil?",
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "Enter the main hall?",
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "Leave the main hall?",
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "Your spiritbond with this item is 100%. Are you certain you wish to sell it?",
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "This item is unique and untradable. Are you certain you wish to sell it?",
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "/Placing the .*? in the armoire will reset its spiritbond to 0%, as well as remove all customization. Gear with condition below 100% cannot be stored. Proceed?/",
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "/Discard .*?/",
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "Exit room?",
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true
+      }
+    ]
+  },
+  "OkRootFolder": {
+    "$type": "YesAlready.TextFolderNode, YesAlready",
+    "Name": "/",
+    "Children": [
+      {
+        "$type": "YesAlready.OkEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": ""
+      }
+    ]
+  },
+  "ListRootFolder": {
+    "$type": "YesAlready.TextFolderNode, YesAlready",
+    "Name": "/",
+    "Children": [
+      {
+        "$type": "YesAlready.ListEntryNode, YesAlready",
+        "Enabled": false,
+        "Text": "Add some text here!",
+        "TargetRestricted": false,
+        "TargetText": ""
+      },
+      {
+        "$type": "YesAlready.TextFolderNode, YesAlready",
+        "Name": "InstancinatorInternal",
+        "Children": [
+          {
+            "$type": "YesAlready.ListEntryNode, YesAlready",
+            "Enabled": false,
+            "Text": "Travel to Instanced Area.",
+            "TargetRestricted": true,
+            "TargetText": "aetheryte"
+          },
+          {
+            "$type": "YesAlready.ListEntryNode, YesAlready",
+            "Enabled": false,
+            "Text": "//",
+            "TargetRestricted": true,
+            "TargetText": "aetheryte"
+          },
+          {
+            "$type": "YesAlready.ListEntryNode, YesAlready",
+            "Enabled": false,
+            "Text": "//",
+            "TargetRestricted": true,
+            "TargetText": "aetheryte"
+          },
+          {
+            "$type": "YesAlready.ListEntryNode, YesAlready",
+            "Enabled": false,
+            "Text": "//",
+            "TargetRestricted": true,
+            "TargetText": "aetheryte"
+          }
+        ]
+      }
+    ]
+  },
+  "TalkRootFolder": {
+    "$type": "YesAlready.TextFolderNode, YesAlready",
+    "Name": "/",
+    "Children": [
+      {
+        "$type": "YesAlready.TalkEntryNode, YesAlready",
+        "Enabled": false,
+        "TargetText": "Add some text here!"
+      }
+    ]
+  },
+  "DesynthDialogEnabled": true,
+  "DesynthBulkDialogEnabled": true,
+  "MaterializeDialogEnabled": false,
+  "MateriaRetrieveDialogEnabled": false,
+  "ItemInspectionResultEnabled": true,
+  "ItemInspectionResultRateLimiter": 0,
+  "RetainerTaskAskEnabled": true,
+  "RetainerTaskResultEnabled": true,
+  "GrandCompanySupplyReward": true,
+  "ShopCardDialog": true,
+  "ShopExchangeItemDialogEnabled": true,
+  "JournalResultCompleteEnabled": true,
+  "ContentsFinderConfirmEnabled": true,
+  "ContentsFinderOneTimeConfirmEnabled": false,
+  "InclusionShopRememberEnabled": false,
+  "InclusionShopRememberCategory": 6,
+  "InclusionShopRememberSubcategory": 3,
+  "GuildLeveDifficultyConfirm": false,
+  "FallGuysRegisterConfirm": true,
+  "FallGuysExitConfirm": true,
+  "RetainerTransferProgressConfirm": true,
+  "DesynthesisResults": true,
+  "AetherialReductionResults": true
+}

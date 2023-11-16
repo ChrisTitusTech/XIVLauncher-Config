@@ -1,0 +1,16 @@
+{
+  "$type": "DelvUI.Interface.GeneralElements.NameplatesGeneralConfig, DelvUI",
+  "OcclusionMode": 2,
+  "OcclusionType": 0,
+  "ClampToScreen": true,
+  "AlwaysShowTargetNameplate": true,
+  "Strata": null,
+  "Position": {
+    "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+    "X": 0.0,
+    "Y": 0.0
+  },
+  "Enabled": true,
+  "StrataLevel": 0,
+  "Version": "2.1.1.1"
+}

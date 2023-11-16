@@ -1,0 +1,11 @@
+{
+  "Enabled": true,
+  "SoloMode": false,
+  "DutiesOnly": false,
+  "DisableInSanctuary": false,
+  "Priority": 4,
+  "CustomWarning": false,
+  "CustomWarningText": "",
+  "DisableInAlliance": true,
+  "CheckAllianceTanks": true
+}

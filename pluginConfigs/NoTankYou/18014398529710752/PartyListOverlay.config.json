@@ -1,0 +1,23 @@
+{
+  "Enabled": true,
+  "SoloMode": false,
+  "SampleMode": false,
+  "WarningText": true,
+  "PlayerName": true,
+  "JobIcon": true,
+  "Animation": true,
+  "AnimationPeriod": 1000.0,
+  "TextColor": {
+    "X": 1.0,
+    "Y": 0.0,
+    "Z": 0.0,
+    "W": 1.0
+  },
+  "OutlineColor": {
+    "X": 1.0,
+    "Y": 0.0,
+    "Z": 0.0,
+    "W": 1.0
+  },
+  "BlacklistedModules": []
+}

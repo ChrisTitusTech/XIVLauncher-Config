@@ -1,0 +1,20 @@
+{
+  "Enabled": true,
+  "SoloMode": false,
+  "SampleMode": false,
+  "CanDrag": false,
+  "WindowPosition": {
+    "X": 700.0,
+    "Y": 400.0
+  },
+  "Scale": 1.0,
+  "DisplayMode": 1,
+  "WarningCount": 10,
+  "AdditionalSpacing": 0.0,
+  "WarningShield": true,
+  "WarningText": true,
+  "PlayerNames": true,
+  "ShowActionName": true,
+  "Icon": true,
+  "BlacklistedModules": []
+}

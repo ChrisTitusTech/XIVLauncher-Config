@@ -1,0 +1,232 @@
+{
+  "$type": "DelvUI.Interface.Party.PartyFramesIconsConfig, DelvUI",
+  "Role": {
+    "$type": "DelvUI.Interface.Party.PartyFramesRoleIconConfig, DelvUI",
+    "Style": 1,
+    "UseRoleIcons": false,
+    "UseSpecificDPSRoleIcons": false,
+    "FrameAnchor": 0,
+    "Size": {
+      "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+      "X": 40.0,
+      "Y": 40.0
+    },
+    "Anchor": 0,
+    "Strata": 4,
+    "Position": {
+      "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0
+    },
+    "Enabled": true,
+    "StrataLevel": 4,
+    "Version": "2.1.1.1"
+  },
+  "Sign": {
+    "$type": "DelvUI.Interface.GeneralElements.SignIconConfig, DelvUI",
+    "Preview": false,
+    "FrameAnchor": 3,
+    "Size": {
+      "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+      "X": 30.0,
+      "Y": 30.0
+    },
+    "Anchor": 3,
+    "Strata": 4,
+    "Position": {
+      "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": -10.0
+    },
+    "Enabled": true,
+    "StrataLevel": 4,
+    "Version": "2.1.1.1"
+  },
+  "Leader": {
+    "$type": "DelvUI.Interface.Party.PartyFramesLeaderIconConfig, DelvUI",
+    "FrameAnchor": 4,
+    "Size": {
+      "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+      "X": 15.0,
+      "Y": 15.0
+    },
+    "Anchor": 4,
+    "Strata": 4,
+    "Position": {
+      "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+      "X": -2.0,
+      "Y": -11.0
+    },
+    "Enabled": false,
+    "StrataLevel": 4,
+    "Version": "2.1.1.1"
+  },
+  "PlayerStatus": {
+    "$type": "DelvUI.Interface.Party.PartyFramesPlayerStatusConfig, DelvUI",
+    "HideName": true,
+    "Icon": {
+      "$type": "DelvUI.Interface.GeneralElements.IconConfig, DelvUI",
+      "FrameAnchor": 8,
+      "Size": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 20.0,
+        "Y": 20.0
+      },
+      "Anchor": 8,
+      "Strata": 4,
+      "Position": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": -1.0,
+        "Y": 15.0
+      },
+      "Enabled": true,
+      "StrataLevel": 4,
+      "Version": "2.1.1.1"
+    },
+    "Label": {
+      "$type": "DelvUI.Interface.GeneralElements.LabelConfig, DelvUI",
+      "FontID": "Expressway_14",
+      "FrameAnchor": 4,
+      "TextAnchor": 4,
+      "Color": {
+        "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+        "Vector": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0,
+          "W": 1.0
+        }
+      },
+      "ShowOutline": true,
+      "OutlineColor": {
+        "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+        "Vector": {
+          "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0
+        }
+      },
+      "ShadowConfig": {
+        "$type": "DelvUI.Interface.GeneralElements.ShadowConfig, DelvUI",
+        "Color": {
+          "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+          "Vector": {
+            "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0
+          }
+        },
+        "Thickness": 1,
+        "Offset": 2,
+        "Enabled": false,
+        "Version": "2.1.1.1"
+      },
+      "UseJobColor": true,
+      "UseRoleColor": false,
+      "Strata": 6,
+      "Position": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 5.0,
+        "Y": 0.0
+      },
+      "Enabled": true,
+      "StrataLevel": 6,
+      "Version": "2.1.1.1"
+    },
+    "Enabled": true,
+    "Version": "2.1.1.1"
+  },
+  "ReadyCheckStatus": {
+    "$type": "DelvUI.Interface.Party.PartyFramesReadyCheckStatusConfig, DelvUI",
+    "HideName": false,
+    "Duration": 10,
+    "Icon": {
+      "$type": "DelvUI.Interface.GeneralElements.IconConfig, DelvUI",
+      "FrameAnchor": 5,
+      "Size": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 24.0,
+        "Y": 24.0
+      },
+      "Anchor": 5,
+      "Strata": 4,
+      "Position": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "Enabled": true,
+      "StrataLevel": 4,
+      "Version": "2.1.1.1"
+    },
+    "Enabled": true,
+    "Version": "2.1.1.1"
+  },
+  "WhosTalking": {
+    "$type": "DelvUI.Interface.Party.PartyFramesWhosTalkingConfig, DelvUI",
+    "ReplaceRoleJobIcon": false,
+    "ShowSpeaking": true,
+    "ShowMuted": true,
+    "ShowDeafened": true,
+    "Icon": {
+      "$type": "DelvUI.Interface.GeneralElements.IconConfig, DelvUI",
+      "FrameAnchor": 5,
+      "Size": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 24.0,
+        "Y": 24.0
+      },
+      "Anchor": 5,
+      "Strata": 4,
+      "Position": {
+        "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "Enabled": true,
+      "StrataLevel": 4,
+      "Version": "2.1.1.1"
+    },
+    "ChangeBorders": false,
+    "BorderThickness": 1,
+    "SpeakingBorderColor": {
+      "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+      "Vector": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.2509804,
+        "Y": 0.73333335,
+        "Z": 0.2509804,
+        "W": 1.0
+      }
+    },
+    "MutedBorderColor": {
+      "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+      "Vector": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 0.0,
+        "Y": 0.5019608,
+        "Z": 0.5019608,
+        "W": 1.0
+      }
+    },
+    "DeafenedBorderColor": {
+      "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+      "Vector": {
+        "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+        "X": 1.0,
+        "Y": 0.26666668,
+        "Z": 0.26666668,
+        "W": 1.0
+      }
+    },
+    "Enabled": true,
+    "Version": "2.1.1.1"
+  },
+  "Enabled": true,
+  "Version": "2.1.1.1"
+}

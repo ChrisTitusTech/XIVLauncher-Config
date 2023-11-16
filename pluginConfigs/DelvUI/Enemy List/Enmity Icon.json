@@ -1,0 +1,20 @@
+{
+  "$type": "DelvUI.Interface.EnemyList.EnemyListEnmityIconConfig, DelvUI",
+  "HealthBarAnchor": 1,
+  "FrameAnchor": 4,
+  "Size": {
+    "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+    "X": 20.0,
+    "Y": 20.0
+  },
+  "Anchor": 1,
+  "Strata": 4,
+  "Position": {
+    "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+    "X": 3.0,
+    "Y": 2.0
+  },
+  "Enabled": true,
+  "StrataLevel": 4,
+  "Version": "2.1.1.1"
+}

@@ -1,0 +1,4 @@
+**/*.log
+*.log
+dalamudUI.ini
+accountsList.json

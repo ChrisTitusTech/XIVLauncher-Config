@@ -1,0 +1,65 @@
+{
+  "$type": "DelvUI.Interface.GeneralElements.TanksColorConfig, DelvUI",
+  "PLDColor": {
+    "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+    "Vector": {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.65882355,
+      "Y": 0.8235294,
+      "Z": 0.9019608,
+      "W": 1.0
+    }
+  },
+  "DRKColor": {
+    "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+    "Vector": {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.81960785,
+      "Y": 0.14901961,
+      "Z": 0.8,
+      "W": 1.0
+    }
+  },
+  "WARColor": {
+    "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+    "Vector": {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.8117647,
+      "Y": 0.14901961,
+      "Z": 0.12941177,
+      "W": 1.0
+    }
+  },
+  "GNBColor": {
+    "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+    "Vector": {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.4745098,
+      "Y": 0.42745098,
+      "Z": 0.1882353,
+      "W": 1.0
+    }
+  },
+  "GLAColor": {
+    "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+    "Vector": {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.65882355,
+      "Y": 0.8235294,
+      "Z": 0.9019608,
+      "W": 1.0
+    }
+  },
+  "MRDColor": {
+    "$type": "DelvUI.Config.PluginConfigColor, DelvUI",
+    "Vector": {
+      "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+      "X": 0.8117647,
+      "Y": 0.14901961,
+      "Z": 0.12941177,
+      "W": 1.0
+    }
+  },
+  "Enabled": true,
+  "Version": "2.1.1.1"
+}
