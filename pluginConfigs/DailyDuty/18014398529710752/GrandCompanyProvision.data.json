@@ -7,14 +7,14 @@
     },
     {
       "RowId": 17,
-      "Complete": true,
+      "Complete": false,
       "CurrentCount": 0
     },
     {
       "RowId": 18,
-      "Complete": true,
+      "Complete": false,
       "CurrentCount": 0
     }
   ],
-  "NextReset": "2023-11-16T20:00:00Z"
+  "NextReset": "2023-11-23T20:00:00Z"
 }

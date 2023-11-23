@@ -1,0 +1,82 @@
+{
+  "$type": "SimpleTweaksPlugin.SimpleTweaksPluginConfig, SimpleTweaksPlugin",
+  "Debugging": {
+    "$type": "SimpleTweaksPlugin.Debugging.DebugConfig, SimpleTweaksPlugin",
+    "SelectedPage": "",
+    "SavedValues": {
+      "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.Object, System.Private.CoreLib]], System.Private.CoreLib"
+    },
+    "SelectedAtkUnitBase": 0,
+    "AtkUnitBaseSearch": ""
+  },
+  "EnabledTweaks": [
+    "UiAdjustments@AlwaysYes",
+    "UiAdjustments@LootWindowDuplicateUniqueItemIndicator",
+    "RecommendEquipCommand",
+    "UiAdjustments@ExamineItemLevel",
+    "UiAdjustments@ScenarioProgressionDisplay",
+    "UiAdjustments@ExpPercentage",
+    "UiAdjustments@AccurateVentureTimes",
+    "AutoLockHotbar",
+    "DisableTitleScreenMovie",
+    "TooltipTweaks@AdditionalItemInfo",
+    "FixTarget",
+    "UiAdjustments@HideAchievementsNotifications",
+    "UiAdjustments@HideJobGauge",
+    "CharaViewIncreasedZoom",
+    "LeaveDutyCommand",
+    "UiAdjustments@LimitBreakAdjustments",
+    "UiAdjustments@MarketEnhancements",
+    "TooltipTweaks@MateriaStats",
+    "UiAdjustments@MinimapAdjustments",
+    "RefreshMarketPrices",
+    "UiAdjustments@GearPositions",
+    "UiAdjustments@LargeCooldownCounter",
+    "UiAdjustments@AutoFocusRecipeSearch",
+    "UiAdjustments@BattleTalkAdjustments",
+    "UiAdjustments@ComboTimer",
+    "UiAdjustments@HideExperienceBar",
+    "UiAdjustments@NamePlateIconSpacing",
+    "UiAdjustments@NotificationToastAdjustments",
+    "UiAdjustments@ReducedDeepDungeonInfo",
+    "UiAdjustments@RememberTitleSorting",
+    "UiAdjustments@RemoveCommunityFinder",
+    "UiAdjustments@RemoveQuestMarkerLimit",
+    "UiAdjustments@TimerOnDutyWaiting"
+  ],
+  "HiddenTweaks": [],
+  "CustomTweakProviders": [],
+  "BlacklistedTweaks": [
+    "UiAdjustments@ExtendedDesynthesisWindow",
+    "UiAdjustments@ActionPressMirroring",
+    "UiAdjustments@ControlHintMirroring",
+    "UiAdjustments@StopCraftingButton::2",
+    "UiAdjustments@FadeUnavailableActions"
+  ],
+  "HiddenCategories": [],
+  "CustomizedCommands": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.String, System.Private.CoreLib]], System.Private.CoreLib"
+  },
+  "DisabledCommandAlias": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib]], System.Private.CoreLib"
+  },
+  "HideKofi": false,
+  "ShowExperimentalTweaks": false,
+  "DisableAutoOpen": false,
+  "ShowInDevMenu": false,
+  "NoFools": false,
+  "NotBaby": false,
+  "AnalyticsOptOut": false,
+  "ShowAllTweaksTab": true,
+  "ShowEnabledTweaksTab": true,
+  "ShowOtherTweaksTab": true,
+  "NoCallerInLog": false,
+  "ShowTweakDescriptions": true,
+  "ShowTweakIDs": false,
+  "CustomCulture": "",
+  "Language": "en",
+  "LastSeenChangelog": "",
+  "AutoOpenChangelog": false,
+  "DisableChangelogNotification": false,
+  "Version": 3
+}

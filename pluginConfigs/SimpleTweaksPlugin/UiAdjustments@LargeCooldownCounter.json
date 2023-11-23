@@ -1,0 +1,29 @@
+{
+  "Font": 3,
+  "FontSizeAdjust": 0,
+  "CooldownColour": {
+    "X": 1.0,
+    "Y": 1.0,
+    "Z": 1.0,
+    "W": 1.0
+  },
+  "CooldownEdgeColour": {
+    "X": 0.2,
+    "Y": 0.2,
+    "Z": 0.2,
+    "W": 1.0
+  },
+  "InvalidColour": {
+    "X": 0.85,
+    "Y": 0.25,
+    "Z": 0.25,
+    "W": 1.0
+  },
+  "InvalidEdgeColour": {
+    "X": 0.34,
+    "Y": 0.0,
+    "Z": 0.0,
+    "W": 1.0
+  },
+  "Version": 1
+}

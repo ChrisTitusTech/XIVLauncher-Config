@@ -1,0 +1,13 @@
+{
+  "BarRotation": 0.0,
+  "BarSpacing": {
+    "X": 164.0,
+    "Y": 0.0
+  },
+  "TextPosition": {
+    "X": 12.0,
+    "Y": 1.0
+  },
+  "HideText": false,
+  "Version": 1
+}

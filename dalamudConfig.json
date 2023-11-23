@@ -4,7 +4,7 @@
   "DutyFinderTaskbarFlash": true,
   "DutyFinderChatMessage": true,
   "LanguageOverride": "en",
-  "LastVersion": "9.0.0.12",
+  "LastVersion": "9.0.0.13",
   "SeenFtueLevel": 1,
   "LastChangelogMajorMinor": "9.0.",
   "GeneralChatType": 1,
@@ -1915,7 +1915,7 @@
         {
           "$type": "Dalamud.Plugin.Internal.Profiles.ProfileModelV1+ProfileModelV1Plugin, Dalamud",
           "InternalName": "NoTankYou",
-          "IsEnabled": false
+          "IsEnabled": true
         },
         {
           "$type": "Dalamud.Plugin.Internal.Profiles.ProfileModelV1+ProfileModelV1Plugin, Dalamud",
@@ -1945,7 +1945,7 @@
         {
           "$type": "Dalamud.Plugin.Internal.Profiles.ProfileModelV1+ProfileModelV1Plugin, Dalamud",
           "InternalName": "DelvUI",
-          "IsEnabled": true
+          "IsEnabled": false
         },
         {
           "$type": "Dalamud.Plugin.Internal.Profiles.ProfileModelV1+ProfileModelV1Plugin, Dalamud",
@@ -1980,7 +1980,7 @@
         {
           "$type": "Dalamud.Plugin.Internal.Profiles.ProfileModelV1+ProfileModelV1Plugin, Dalamud",
           "InternalName": "SortaKinda",
-          "IsEnabled": false
+          "IsEnabled": true
         },
         {
           "$type": "Dalamud.Plugin.Internal.Profiles.ProfileModelV1+ProfileModelV1Plugin, Dalamud",

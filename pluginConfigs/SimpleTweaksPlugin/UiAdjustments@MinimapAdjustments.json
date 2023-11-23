@@ -1,0 +1,16 @@
+{
+  "HideCoordinates": true,
+  "HideCompassLock": true,
+  "HideCompassDirections": true,
+  "HideSun": true,
+  "CleanBorder": true,
+  "NoBorder": false,
+  "HideZoom": true,
+  "HideWeather": true,
+  "WeatherPosition": 0.0,
+  "CoordinatesPosition": {
+    "X": 0.0,
+    "Y": 0.0
+  },
+  "Version": 1
+}

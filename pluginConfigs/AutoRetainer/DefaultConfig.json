@@ -1,13 +1,15 @@
 ﻿{
   "CensorSeed": "213ba2ec-c57c-4d32-aa5a-6db5d8b7b0b9",
   "SelectedRetainers": {
-    "18014398529710752": []
+    "18014398529710752": [
+      "Jezmine"
+    ]
   },
   "EnableAssigningQuickExploration": false,
   "Verbose": false,
   "OfflineData": [
     {
-      "CreationFrame": 1,
+      "CreationFrame": 0,
       "CID": 18014398529710752,
       "Name": "Tituz Maximus",
       "World": "Goblin",
@@ -16,7 +18,7 @@
       "WorkshopEnabled": false,
       "RetainerData": [
         {
-          "CreationFrame": 255630,
+          "CreationFrame": 0,
           "Name": "Jacquilynn",
           "VentureEndsAt": 0,
           "HasVenture": false,
@@ -24,27 +26,27 @@
           "VentureBeginsAt": 0,
           "Job": 0,
           "VentureID": 0,
-          "Gil": 0,
+          "Gil": 9499,
           "DisplayOrder": 0,
           "ShouldSerializeCreationFrame": false
         },
         {
-          "CreationFrame": 255630,
+          "CreationFrame": 0,
           "Name": "Jezmine",
-          "VentureEndsAt": 1700106095,
+          "VentureEndsAt": 1700621827,
           "HasVenture": true,
-          "Level": 10,
+          "Level": 11,
           "VentureBeginsAt": 0,
           "Job": 16,
           "VentureID": 78,
-          "Gil": 19000,
+          "Gil": 0,
           "DisplayOrder": 0,
           "ShouldSerializeCreationFrame": false
         }
       ],
-      "Preferred": false,
-      "Ventures": 17,
-      "InventorySpace": 94,
+      "Preferred": true,
+      "Ventures": 238,
+      "InventorySpace": 71,
       "VentureCoffers": 0,
       "ServiceAccount": 0,
       "ShowRetainersInDisplayOrder": false,
@@ -67,7 +69,7 @@
       "ClassJobLevelArray": [
         1,
         15,
-        60,
+        78,
         3,
         12,
         15,
@@ -77,26 +79,26 @@
         0,
         1,
         19,
-        0,
+        1,
         2,
         0,
         22,
         0,
         0,
-        89,
+        90,
         1,
-        0,
+        30,
         0,
         0,
         50,
-        0,
+        50,
         1,
         60,
         60,
-        0,
+        70,
         70
       ],
-      "Gil": 2076376,
+      "Gil": 3014735,
       "OfflineAirshipData": [],
       "OfflineSubmarineData": [],
       "EnabledAirships": [],
@@ -110,6 +112,7 @@
       "ExcludeOverlay": false,
       "TransferItemsBlacklist": [],
       "NumSubSlots": 0,
+      "TeleportToFCHouse": false,
       "ShouldSerializeCreationFrame": false,
       "CurrentWorld": "Goblin"
     }
@@ -125,7 +128,7 @@
   "NoTheme": false,
   "AdditionalData": {
     "#004000000134AAA0 Jacquilynn": {
-      "CreationFrame": 29342,
+      "CreationFrame": 0,
       "EntrustDuplicates": false,
       "WithdrawGil": false,
       "WithdrawGilPercent": 100,
@@ -144,7 +147,7 @@
       "ShouldSerializeCreationFrame": false
     },
     "#004000000134AAA0 Jezmine": {
-      "CreationFrame": 29342,
+      "CreationFrame": 0,
       "EntrustDuplicates": false,
       "WithdrawGil": false,
       "WithdrawGilPercent": 100,
@@ -233,8 +236,7 @@
   "UnlockFPSUnlimited": false,
   "UnlockFPSChillFrames": false,
   "ManipulatePriority": false,
-  "SubsAutoResend": false,
-  "SubsAutoEnable": false,
+  "SubsAutoResend2": true,
   "MultiModeType": 2,
   "NoErrorCheckPlanner2": true,
   "FailureNoFuel": 0,

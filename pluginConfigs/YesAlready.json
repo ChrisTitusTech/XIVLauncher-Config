@@ -19,7 +19,7 @@
       {
         "$type": "YesAlready.TextEntryNode, YesAlready",
         "Enabled": true,
-        "Text": "Leave duty?",
+        "Text": "/Use .*?/",
         "ZoneRestricted": false,
         "ZoneText": "",
         "IsYes": true
@@ -27,7 +27,7 @@
       {
         "$type": "YesAlready.TextEntryNode, YesAlready",
         "Enabled": true,
-        "Text": "Use the teleporter?",
+        "Text": "/Teleport .*?/",
         "ZoneRestricted": false,
         "ZoneText": "",
         "IsYes": true
@@ -35,23 +35,7 @@
       {
         "$type": "YesAlready.TextEntryNode, YesAlready",
         "Enabled": true,
-        "Text": "Teleport to New Gridania for 35 gil?",
-        "ZoneRestricted": false,
-        "ZoneText": "",
-        "IsYes": true
-      },
-      {
-        "$type": "YesAlready.TextEntryNode, YesAlready",
-        "Enabled": true,
-        "Text": "Enter the main hall?",
-        "ZoneRestricted": false,
-        "ZoneText": "",
-        "IsYes": true
-      },
-      {
-        "$type": "YesAlready.TextEntryNode, YesAlready",
-        "Enabled": true,
-        "Text": "Leave the main hall?",
+        "Text": "/Leave .*?/",
         "ZoneRestricted": false,
         "ZoneText": "",
         "IsYes": true
@@ -91,7 +75,31 @@
       {
         "$type": "YesAlready.TextEntryNode, YesAlready",
         "Enabled": true,
-        "Text": "Exit room?",
+        "Text": "/Exit .*?/",
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "/Open .*?/",
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "/Enter .*?/",
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "Delete from hotbar?",
         "ZoneRestricted": false,
         "ZoneText": "",
         "IsYes": true
@@ -182,7 +190,7 @@
   "ContentsFinderConfirmEnabled": true,
   "ContentsFinderOneTimeConfirmEnabled": false,
   "InclusionShopRememberEnabled": false,
-  "InclusionShopRememberCategory": 6,
+  "InclusionShopRememberCategory": 2,
   "InclusionShopRememberSubcategory": 3,
   "GuildLeveDifficultyConfirm": false,
   "FallGuysRegisterConfirm": true,

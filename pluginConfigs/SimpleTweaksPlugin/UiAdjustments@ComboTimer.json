@@ -1,0 +1,23 @@
+{
+  "AlwaysVisible": false,
+  "NoComboText": false,
+  "FontSize": 12,
+  "OffsetX": 0,
+  "OffsetY": 0,
+  "Color": {
+    "X": 1.0,
+    "Y": 1.0,
+    "Z": 1.0,
+    "W": 1.0
+  },
+  "EdgeColor": {
+    "X": 0.9411765,
+    "Y": 0.5568628,
+    "Z": 0.21568628,
+    "W": 1.0
+  },
+  "LeadingZero": true,
+  "DecimalPlaces": 2,
+  "UseScreenText": false,
+  "Version": 1
+}

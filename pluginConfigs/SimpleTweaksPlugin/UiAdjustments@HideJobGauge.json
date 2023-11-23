@@ -1,0 +1,7 @@
+{
+  "ShowInDuty": true,
+  "ShowInCombat": true,
+  "CombatBuffer": 0,
+  "ShowWhileWeaponDrawn": true,
+  "Version": 1
+}

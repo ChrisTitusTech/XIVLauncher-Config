@@ -2,17 +2,17 @@
   "TaskData": [
     {
       "RowId": 8,
-      "Complete": true,
+      "Complete": false,
       "CurrentCount": 0
     },
     {
       "RowId": 9,
-      "Complete": true,
+      "Complete": false,
       "CurrentCount": 0
     },
     {
       "RowId": 10,
-      "Complete": true,
+      "Complete": false,
       "CurrentCount": 0
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "RowId": 13,
-      "Complete": true,
+      "Complete": false,
       "CurrentCount": 0
     },
     {
@@ -37,9 +37,9 @@
     },
     {
       "RowId": 15,
-      "Complete": true,
+      "Complete": false,
       "CurrentCount": 0
     }
   ],
-  "NextReset": "2023-11-16T20:00:00Z"
+  "NextReset": "2023-11-23T20:00:00Z"
 }
