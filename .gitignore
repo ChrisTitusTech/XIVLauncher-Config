@@ -2,3 +2,13 @@
 *.log
 dalamudUI.ini
 accountsList.json
+dalamudVfs.db
+launcherConfigV3.json
+uidCache.json
+addon/
+backups/
+dalamudAssets/
+installedPlugins/
+patches/
+runtime/
+pluginConfigs/DailyDuty/18014398529710752/
