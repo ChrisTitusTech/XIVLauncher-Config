@@ -103,6 +103,22 @@
         "ZoneRestricted": false,
         "ZoneText": "",
         "IsYes": true
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "/Journey .*?/",
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true
+      },
+      {
+        "$type": "YesAlready.TextEntryNode, YesAlready",
+        "Enabled": true,
+        "Text": "/Jump .*?/",
+        "ZoneRestricted": false,
+        "ZoneText": "",
+        "IsYes": true
       }
     ]
   },
