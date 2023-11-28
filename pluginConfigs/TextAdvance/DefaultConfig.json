@@ -34,7 +34,7 @@
   },
   "NotifyDisableManualState": false,
   "NotifyDisableOnLogin": false,
-  "QTIEnabled": false,
+  "QTIEnabled": true,
   "PickRewardOrder": [
     1,
     2,

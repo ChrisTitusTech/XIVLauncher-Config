@@ -1,0 +1,21 @@
+{
+  "$type": "BetterMountRoulette.Config.Data.Configuration, BetterMountRoulette",
+  "Version": 3,
+  "Enabled": false,
+  "EnabledMounts": [],
+  "CharacterConfigs": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.UInt64, System.Private.CoreLib],[BetterMountRoulette.Config.Data.CharacterConfigEntry, BetterMountRoulette]], System.Private.CoreLib",
+    "18014398529710752": {
+      "$type": "BetterMountRoulette.Config.Data.CharacterConfigEntry, BetterMountRoulette",
+      "CharacterName": "Tituz Maximus",
+      "CharacterWorld": "Goblin",
+      "FileName": "18014398529710752_Tituz_Maximus@Goblin.json"
+    }
+  },
+  "NewCharacterHandling": 2,
+  "DefaultGroupName": "Default",
+  "IncludeNewMounts": true,
+  "Groups": [],
+  "MountRouletteGroup": null,
+  "FlyingMountRouletteGroup": null
+}

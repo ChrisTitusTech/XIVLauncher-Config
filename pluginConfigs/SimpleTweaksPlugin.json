@@ -66,7 +66,7 @@
   "ShowInDevMenu": false,
   "NoFools": false,
   "NotBaby": false,
-  "AnalyticsOptOut": false,
+  "AnalyticsOptOut": true,
   "ShowAllTweaksTab": true,
   "ShowEnabledTweaksTab": true,
   "ShowOtherTweaksTab": true,
@@ -78,5 +78,6 @@
   "LastSeenChangelog": "",
   "AutoOpenChangelog": false,
   "DisableChangelogNotification": false,
+  "MetricsIdentifier": null,
   "Version": 3
 }

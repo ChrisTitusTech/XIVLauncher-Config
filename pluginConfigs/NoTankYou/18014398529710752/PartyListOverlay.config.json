@@ -5,7 +5,7 @@
   "WarningText": true,
   "PlayerName": true,
   "JobIcon": true,
-  "Animation": true,
+  "Animation": false,
   "AnimationPeriod": 1000.0,
   "TextColor": {
     "X": 1.0,

@@ -25,10 +25,10 @@
       "$type": "CurrencyAlert.Models.TrackedCurrency, CurrencyAlert",
       "Type": 0,
       "ItemId": 22,
-      "Threshold": 75000,
+      "Threshold": 45000,
       "Enabled": true,
       "ChatWarning": false,
-      "ShowInOverlay": false,
+      "ShowInOverlay": true,
       "Invert": false
     },
     {
@@ -98,7 +98,7 @@
       "Threshold": 1400,
       "Enabled": true,
       "ChatWarning": false,
-      "ShowInOverlay": false,
+      "ShowInOverlay": true,
       "Invert": false
     },
     {

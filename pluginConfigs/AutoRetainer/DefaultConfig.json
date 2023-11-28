@@ -46,7 +46,7 @@
       ],
       "Preferred": true,
       "Ventures": 238,
-      "InventorySpace": 71,
+      "InventorySpace": 51,
       "VentureCoffers": 0,
       "ServiceAccount": 0,
       "ShowRetainersInDisplayOrder": false,
@@ -69,7 +69,7 @@
       "ClassJobLevelArray": [
         1,
         15,
-        78,
+        84,
         3,
         12,
         15,
@@ -98,7 +98,7 @@
         70,
         70
       ],
-      "Gil": 3014735,
+      "Gil": 3087584,
       "OfflineAirshipData": [],
       "OfflineSubmarineData": [],
       "EnabledAirships": [],

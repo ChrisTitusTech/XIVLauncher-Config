@@ -1,0 +1,236 @@
+{
+  "$type": "HuntHelper.Configuration, HuntHelper",
+  "WorldTextColourAlt": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 0.51765,
+    "Y": 0.0,
+    "Z": 0.3294,
+    "W": 1.0
+  },
+  "Version": 0,
+  "MapWindowPos": {
+    "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+    "X": 25.0,
+    "Y": 25.0
+  },
+  "CurrentWindowSize": 512,
+  "MapImageOpacityAsPercentage": 100.0,
+  "Language": "english",
+  "SpawnPointColour": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 0.24706,
+    "Y": 0.309804,
+    "Z": 0.741176,
+    "W": 1.0
+  },
+  "MobColour": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 0.4,
+    "Y": 1.0,
+    "Z": 0.567,
+    "W": 1.0
+  },
+  "PlayerIconColour": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 0.0,
+    "Y": 0.0,
+    "Z": 0.0,
+    "W": 1.0
+  },
+  "PlayerIconBackgroundColour": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 0.117647,
+    "Y": 0.5647,
+    "Z": 1.0,
+    "W": 0.7
+  },
+  "DirectionLineColour": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 1.0,
+    "Y": 0.3,
+    "Z": 0.3,
+    "W": 1.0
+  },
+  "DetectionCircleColour": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 1.0,
+    "Y": 1.0,
+    "Z": 0.0,
+    "W": 1.0
+  },
+  "AllRadiusModifier": 1.0,
+  "MobIconRadiusModifier": 2.0,
+  "SpawnPointRadiusModifier": 1.0,
+  "PlayerIconRadiusModifier": 1.0,
+  "DetectionCircleModifier": 1.0,
+  "MouseOverDistanceModifier": 2.5,
+  "DetectionCircleThickness": 3.0,
+  "DirectionLineThickness": 3.0,
+  "ZoneInfoPosXPercentage": 3.5,
+  "ZoneInfoPosYPercentage": 11.1,
+  "WorldInfoPosXPercentage": 0.45,
+  "WorldInfoPosYPercentage": 8.3,
+  "PriorityMobInfoPosXPercentage": 35.0,
+  "PriorityMobInfoPosYPercentage": 2.5,
+  "NearbyMobListPosXPercentage": 0.42,
+  "NearbyMobListPosYPercentage": 69.0,
+  "ZoneTextColour": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 0.282353,
+    "Y": 0.76863,
+    "Z": 0.69412,
+    "W": 1.0
+  },
+  "ZoneTextColourAlt": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 0.0,
+    "Y": 0.4353,
+    "Z": 0.36863,
+    "W": 1.0
+  },
+  "WorldTextColour": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 0.77255,
+    "Y": 0.3412,
+    "Z": 0.612,
+    "W": 1.0
+  },
+  "PriorityMobTextColour": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 1.0,
+    "Y": 1.0,
+    "Z": 1.0,
+    "W": 1.0
+  },
+  "PriorityMobTextColourAlt": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 1.0,
+    "Y": 1.0,
+    "Z": 1.0,
+    "W": 1.0
+  },
+  "NearbyMobListColour": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 1.0,
+    "Y": 1.0,
+    "Z": 1.0,
+    "W": 1.0
+  },
+  "NearbyMobListColourAlt": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 1.0,
+    "Y": 1.0,
+    "Z": 1.0,
+    "W": 1.0
+  },
+  "PriorityMobColourBackground": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 1.0,
+    "Y": 0.43529412,
+    "Z": 0.5137255,
+    "W": 0.0
+  },
+  "NearbyMobListColourBackground": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 1.0,
+    "Y": 0.43529412,
+    "Z": 0.5137255,
+    "W": 0.0
+  },
+  "MapWindowColour": {
+    "$type": "System.Numerics.Vector4, System.Private.CoreLib",
+    "X": 0.0,
+    "Y": 0.0,
+    "Z": 0.0,
+    "W": 0.2
+  },
+  "MapWindowOpacityAsPercentage": 20.0,
+  "PriorityMobEnabled": true,
+  "NearbyMobListEnabled": true,
+  "ShowZoneName": true,
+  "ShowWorldName": true,
+  "SaveSpawnData": true,
+  "UseMapImages": false,
+  "EnableBackgroundScan": false,
+  "ShowOptionsWindow": false,
+  "TTSVoiceName": "Microsoft David Desktop",
+  "TTSVolume": 50,
+  "TTSAMessage": "<rank> Nearby",
+  "TTSBMessage": "<rank> Nearby",
+  "TTSSMessage": "<rank> in zone",
+  "ChatAMessage": "FOUND: <name> @ <flag> ---  <rank>  --  <hpp>",
+  "ChatBMessage": "FOUND: <name> @ <flag> ---  <rank>  --  <hpp>",
+  "ChatSMessage": "FOUND: <name> @ <flag> ---  <rank>  --  <hpp>",
+  "TTSAEnabled": false,
+  "TTSBEnabled": false,
+  "TTSSEnabled": true,
+  "ChatAEnabled": false,
+  "ChatBEnabled": false,
+  "ChatSEnabled": true,
+  "FlyTextAEnabled": false,
+  "FlyTextBEnabled": false,
+  "FlyTextSEnabled": true,
+  "PointToARank": false,
+  "PointToBRank": false,
+  "PointToSRank": false,
+  "PointerDiamondSizeModifier": 1.0,
+  "SFoundCount": 0,
+  "AFoundCount": 0,
+  "BFoundCount": 0,
+  "PresetOne": {
+    "$type": "HuntHelper.Preset, HuntHelper",
+    "WindowSize": 512,
+    "MapOpacity": 1.0,
+    "WindowOpacity": 1.0,
+    "UseMap": false,
+    "WindowPosition": {
+      "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0
+    }
+  },
+  "PresetTwo": {
+    "$type": "HuntHelper.Preset, HuntHelper",
+    "WindowSize": 512,
+    "MapOpacity": 1.0,
+    "WindowOpacity": 1.0,
+    "UseMap": false,
+    "WindowPosition": {
+      "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+      "X": 0.0,
+      "Y": 0.0
+    }
+  },
+  "HuntTrainWindowSize": {
+    "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+    "X": 250.0,
+    "Y": 400.0
+  },
+  "HuntTrainWindowPos": {
+    "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+    "X": 150.0,
+    "Y": 150.0
+  },
+  "HuntTrainShowLastSeen": false,
+  "HuntTrainUseBorder": false,
+  "HuntTrainNextOpensMap": false,
+  "HuntTrainNextTeleportMe": false,
+  "HuntTrainNextTeleportMeOnCommand": false,
+  "HuntTrainShowTeleportButtons": false,
+  "HuntTrainTeleportToAetheryte": false,
+  "HuntTrainShowFlagInChat": true,
+  "HuntTrainShowUIDuringIPCImport": true,
+  "SpawnPointRecordAll": false,
+  "CounterWindowPos": {
+    "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+    "X": 50.0,
+    "Y": 50.0
+  },
+  "CounterWindowSize": {
+    "$type": "System.Numerics.Vector2, System.Private.CoreLib",
+    "X": 250.0,
+    "Y": 50.0
+  },
+  "CountInBackground": false,
+  "HuntWindowFlag": 9
+}

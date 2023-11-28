@@ -1,0 +1,17 @@
+﻿{
+  "Version": 8,
+  "LastSeenVersion": 31,
+  "DebugSeparateWindow": false,
+  "TutorialStep": 20,
+  "EnableResourceLogging": false,
+  "ResourceLoggingFilter": "",
+  "EnableResourceWatcher": false,
+  "OnlyAddMatchingResources": true,
+  "ResourceWatcherResourceTypes": 4503599627370495,
+  "ResourceWatcherResourceCategories": 16383,
+  "ResourceWatcherRecordTypes": 15,
+  "CollectionPanel": 0,
+  "SelectedTab": 2,
+  "ChangedItemFilter": 114687,
+  "FixMainWindow": false
+}

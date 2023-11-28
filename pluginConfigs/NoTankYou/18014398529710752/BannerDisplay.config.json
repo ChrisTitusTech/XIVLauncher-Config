@@ -1,10 +1,10 @@
 {
-  "Enabled": true,
+  "Enabled": false,
   "SoloMode": false,
   "SampleMode": false,
   "CanDrag": false,
   "WindowPosition": {
-    "X": 700.0,
+    "X": 10.0,
     "Y": 400.0
   },
   "Scale": 1.0,

@@ -1,0 +1,19 @@
+{
+  "$type": "JustBackup.Config, JustBackup",
+  "BackupPath": "",
+  "DeleteBackups": true,
+  "DeleteToRecycleBin": true,
+  "DaysToKeep": 7,
+  "BackupAll": false,
+  "ExcludeReplays": false,
+  "UseDefaultZip": false,
+  "BackupPluginConfigs": true,
+  "BackupsToKeep": 10,
+  "NoThreadLimit": false,
+  "Ignore": [],
+  "TempPathes": [
+    "C:\\Users\\chris\\AppData\\Local\\Temp\\JustBackup-1700968235588"
+  ],
+  "OverrideGamePath": "",
+  "Version": 1
+}
